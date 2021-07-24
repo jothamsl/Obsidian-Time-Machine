@@ -1,4 +1,4 @@
-# 🧬 Meiosis & Sexual Reproduction
+# 🍑 Meiosis & Sexual Reproduction
 created: 2021-07-24 13:40
 * Sexual reproduction occurs through the production of a haploid cell (containing one set of chromosomes (23) or genetic material) by each parent.
 * The fusion of the two haploid cells form a single, unique diploid cell with a complete set of chromosomes (two sets (46)) or genetic makeup, this is called **Fertilization**.

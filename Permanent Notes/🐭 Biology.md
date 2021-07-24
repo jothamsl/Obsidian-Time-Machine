@@ -1,2 +1,2 @@
 #   🐭 Biology
-1. [[🧬 Meiosis & Sexual Reproduction]]
+1. [[Fleeting Notes/Biology/🧬  Genetics/Meiosis & Sexual Reproduction]]
