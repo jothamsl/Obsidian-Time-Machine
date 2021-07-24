@@ -16,6 +16,6 @@ created: 2021-07-24 13:40
 ## Definitions
 | **Eukaryote**: This is any cell or organism that possess a clearly defined nucleus. | ![[Pasted image 20210724140238.png]] |
 | ----------------------------------------------------------------------------------- | ------------------------------------ |
-* **Interphase**: This is the longest part of the cell cycle. When the cell grows, it copies its DNA before moving into mitosis. During mitosis
+* **Interphase**: This is the longest part of the cell cycle. When the cell grows, it copies its DNA before moving into mitosis. During mitosis, chromosomes will align, serparate and move into new daughter cells.
 ## References
 1. https://openstax.org/books/biology-ap-courses/pages/11-introduction
