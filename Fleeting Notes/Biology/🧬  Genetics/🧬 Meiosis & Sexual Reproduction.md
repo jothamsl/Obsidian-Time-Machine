@@ -12,12 +12,14 @@ created: 2021-07-24 13:40
 * Chromosomes occur in homologous pairs (homologues).
 * Genes can have different variations called **Alleles**.
 * In **Mitosis**, homologous chromosomes are duplicated during the **S**-stage (synthesis) of **interphase**.
+* The amount of chromosome pairs in a nucleus is counted based on the amount of **centromeres**.
 
 ## Definitions
 | **Eukaryote**: This is any cell or organism that possess a clearly defined nucleus. | ![[Pasted image 20210724140238.png]] |
 | ----------------------------------------------------------------------------------- | ------------------------------------ |
 * **Interphase**: This is the longest part of the cell cycle. When the cell grows, it copies its DNA before moving into mitosis. During mitosis, chromosomes will align, serparate and move into new daughter cells.
 *  **Homologous**: Pairing at meiosis and having the same structural features and pattern of genes. ![[Pasted image 20210724144921.png]] 
+*  **Centromere**: This is the specialized DNA sequence of a chromosome that links a pair of sister chromatids.
 ## References
 1. https://openstax.org/books/biology-ap-courses/pages/11-introduction
 2. https://youtu.be/VzDMG7ke69g
