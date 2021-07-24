@@ -8,7 +8,7 @@ created: 2021-07-24 13:40
 * The vast majority of **Eukaryotic** organisms employ some form of meiosis and fertilization to reproduce
 * Cells divide to grow, replace other cells and reproduce asexually. [[Fleeting Notes/Biology/Cells]]
 * Evolution occurs only because organisms have developed ways to vary their genetic material.
-* Sexual reproduction requires that diploid *2n* organisms produce haploid *(1n)* cells through meiosis and that these haploid cells fuse to form new, diploid offspring.
+* Sexual reproduction requires that diploid (*2n*) organisms produce haploid *(1n)* cells through meiosis and that these haploid cells fuse to form new, diploid offspring.
 * Chromosomes occur in homologous pairs (homologues).
 * Genes can have different variations called **Alleles**.
 * In **Mitosis**, homologous chromosomes are duplicated during the **S**-stage (synthesis) of **interphase**.
@@ -18,15 +18,15 @@ created: 2021-07-24 13:40
 * The second division **Meiosis II**, separates chromatids.
 * Mitosis produces identical cells, allowing growth or repair of tissues, while Meiosis generates reproductive cells or gametes.
 * The number of sets of chromosomes in a cell is called its **Ploidy level**.
-* 
 
 ## Definitions
 | **Term** | **Image**                                                                                                             | -                                    |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
 | **Eukaryote**: This is any cell or organism that possess a clearly defined nucleus.                          | ![[Pasted image 20210724140238.png]] |
 | **Centromere**: This is the specialized DNA sequence of a chromosome that links a pair of sister chromatids. | ![[Pasted image 20210724153932.png]] |
-* **Interphase**: This is the longest part of the cell cycle. When the cell grows, it copies its DNA before moving into mitosis. During mitosis, chromosomes will align, serparate and move into new daughter cells.
-*  **Homologous**: Pairing at meiosis and having the same structural features and pattern of genes. ![[Pasted image 20210724144921.png]] 
+**Interphase**: This is the longest part of the cell cycle. When the cell grows, it copies its DNA before moving into mitosis. During mitosis, chromosomes will align, serparate and move into new daughter cells.
+
+**Homologous**: Pairing at meiosis and having the same structural features and pattern of genes. ![[Pasted image 20210724144921.png]] 
 
 
 ## References
