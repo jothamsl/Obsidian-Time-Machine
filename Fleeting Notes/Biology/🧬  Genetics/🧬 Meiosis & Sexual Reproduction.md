@@ -17,6 +17,8 @@ created: 2021-07-24 13:40
 * The first division **Meiosis I**, separates homologous chromosomes.
 * The second division **Meiosis II**, separates chromatids.
 * Mitosis produces identical cells, allowing growth or repair of tissues, while Meiosis generates reproductive cells or gametes.
+* The number of sets of chromosomes in a cell is called its **Ploidy level**.
+* 
 
 ## Definitions
 | **Term** | **Image**                                                                                                             | -                                    |
