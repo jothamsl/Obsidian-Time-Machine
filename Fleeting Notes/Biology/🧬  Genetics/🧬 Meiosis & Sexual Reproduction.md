@@ -32,3 +32,4 @@ created: 2021-07-24 13:40
 ## References
 1. https://openstax.org/books/biology-ap-courses/pages/11-introduction
 2. https://youtu.be/VzDMG7ke69g
+3. Phases of Meiosis (Khan Academy): https://www.youtube.com/watch?v=ijLc52LmFQg
