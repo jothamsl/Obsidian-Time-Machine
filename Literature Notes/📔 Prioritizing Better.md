@@ -6,4 +6,4 @@ created: 2021-07-24 03:50
 * You need to ask yourself "what steps will actually make me more likely to achieve my goals?". Asking yourself this lays the foundation of what you need to achieve them, it could possibly even identify what your doing wrong. 🌿
 
 ## References
-1. [[Prioritizing Better]]
+1. [[Fleeting Notes/📔 Prioritizing Better]]
