@@ -13,6 +13,7 @@ created: 2021-07-24 13:40
 * Genes can have different variations called **Alleles**.
 * In **Mitosis**, homologous chromosomes are duplicated during the **S**-stage (synthesis) of **interphase**.
 * The amount of chromosome pairs in a nucleus is counted based on the amount of **centromeres**.
+* Meiosis has two complete rounds of nuclear division -> **Meiosis I** and **Meiosis II**. 
 
 ## Definitions
 | **Term** | **Image**                                                                                                             | -                                    |
