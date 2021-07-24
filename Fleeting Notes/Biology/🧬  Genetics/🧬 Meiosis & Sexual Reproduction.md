@@ -14,6 +14,9 @@ created: 2021-07-24 13:40
 * In **Mitosis**, homologous chromosomes are duplicated during the **S**-stage (synthesis) of **interphase**.
 * The amount of chromosome pairs in a nucleus is counted based on the amount of **centromeres**.
 * Meiosis has two complete rounds of nuclear division -> **Meiosis I** and **Meiosis II**. 
+* The first division **Meiosis I**, separates homologous chromosomes.
+* The second division **Meiosis II**, separates chromatids.
+* Mitosis produces identical cells, allowing growth or repair of tissues, while Meiosis generates reproductive cells or gametes.
 
 ## Definitions
 | **Term** | **Image**                                                                                                             | -                                    |
