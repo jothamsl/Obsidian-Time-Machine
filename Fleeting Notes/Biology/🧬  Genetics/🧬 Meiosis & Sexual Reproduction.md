@@ -11,10 +11,11 @@ created: 2021-07-24 13:40
 * Sexual reproduction requires that diploid *2n* organisms produce haploid *(1n)* cells through meiosis and that these haploid cells fuse to form new, diploid offspring.
 * Chromosomes occur in homologous pairs (homologues).
 * Genes can have different variations called **Alleles**.
+* In **Mitosis**, homologous chromosomes are duplicated during the **S**-stage (synthesis) of **interphase**.
 
 ## Definitions
 | **Eukaryote**: This is any cell or organism that possess a clearly defined nucleus. | ![[Pasted image 20210724140238.png]] |
 | ----------------------------------------------------------------------------------- | ------------------------------------ |
-
+* **Interphase**: This is the longest part of the cell cycle. When the cell grows, it copies its DNA before moving into mitosis.
 ## References
 1. https://openstax.org/books/biology-ap-courses/pages/11-introduction
