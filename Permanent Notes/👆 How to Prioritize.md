@@ -1,4 +1,4 @@
-# How to Prioritize
+# 👆 How to Prioritize
 created: 2021-07-24 04:10
 
 If you want to prioritize:
