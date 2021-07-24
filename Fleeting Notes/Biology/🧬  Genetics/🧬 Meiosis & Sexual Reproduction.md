@@ -20,3 +20,4 @@ created: 2021-07-24 13:40
 *  **Homologous**: Pairing at meiosis and having the same structural features and pattern of genes. ![[Pasted image 20210724144921.png]] 
 ## References
 1. https://openstax.org/books/biology-ap-courses/pages/11-introduction
+2. https://youtu.be/VzDMG7ke69g
