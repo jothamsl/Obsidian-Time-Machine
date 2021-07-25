@@ -1,7 +1,7 @@
 {
   "baseFontSize": 19,
-  "cssTheme": "Palatinate",
-  "theme": "moonstone",
-  "translucency": false,
+  "cssTheme": "California Coast",
+  "theme": "obsidian",
+  "translucency": true,
   "obsidianCss": false
 }

@@ -1,4 +1,4 @@
-# Meiosis & Sexual Reproduction
+# 🤰🏾 Meiosis & Sexual Reproduction
 created: 2021-07-24 17:45
 
 At fertilization, the male parent contributes one member of each homologous pair to the offpsring, and the female parent contributes the other. With the exception of the sex chromosomes, homologous chromosomes contain the same genes which may vary, they are called **Alleles**. 
