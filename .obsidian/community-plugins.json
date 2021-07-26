@@ -1,4 +1,7 @@
 [
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban",
+  "markdown-prettifier",
+  "obsidian-admonition"
 ]

@@ -1,5 +1,8 @@
 {
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "emacsyKeys": false,
+  "showFrontmatter": false,
+  "spellcheck": true
 }

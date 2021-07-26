@@ -10,5 +10,10 @@ created: 2021-07-25 23:02
 	1. Keep the language simple.
 	2. Drill down to the essence
 
+## Active Recall
+* This is the process of testing yourself, inorder to check how much you can recall on a certain topic.
+* Active recall can be considered as more than just a judgement exercise on how well we understand the content after learning about it. It can and possibly should be considered as part of the learning process.
+* The more the brain has to work to do something, the more the effortfull the learning is, the more connctions are made and strengthened.
+
 ## References
 1. https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230
