@@ -1,5 +1,6 @@
 # 👨🏽‍🏫  Understanding
 created: 2021-07-25 23:02
+![[Pasted image 20210726114659.png]] 
 ## The Feynman Technique
 * The first step to understanding anything is by using the **Feynman technique**.
 * It is essentially asking yourself if you understand what your are reading/studying.
@@ -11,9 +12,12 @@ created: 2021-07-25 23:02
 	2. Drill down to the essence
 
 ## Active Recall
-* This is the process of testing yourself, inorder to check how much you can recall on a certain topic.
-* Active recall can be considered as more than just a judgement exercise on how well we understand the content after learning about it. It can and possibly should be considered as part of the learning process.
-* The more the brain has to work to do something, the more the effortfull the learning is, the more connctions are made and strengthened.
+* This is the process of testing yourself, in order to check how much you can recall on a certain topic.
+* Active recall can be considered as more than just a judgment exercise on how well we understand the content after learning about it. It can and possibly should be considered as part of the learning process.
+* The more the brain has to work to do something, the more the effortful the learning is, the more connections are made and strengthened. 
 
+## Taking Notes During Class
+* Taking notes by hand is much more effective than typing notes.
+* Use the **Cornell note taking**  method.
 ## References
 1. https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230

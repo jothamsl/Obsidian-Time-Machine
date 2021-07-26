@@ -2,6 +2,6 @@
   "baseFontSize": 19,
   "cssTheme": "California Coast",
   "theme": "moonstone",
-  "translucency": true,
+  "translucency": false,
   "obsidianCss": false
 }
