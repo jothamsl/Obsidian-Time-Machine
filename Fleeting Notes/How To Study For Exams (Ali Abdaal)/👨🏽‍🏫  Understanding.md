@@ -19,5 +19,13 @@ created: 2021-07-25 23:02
 ## Taking Notes During Class
 * Taking notes by hand is much more effective than typing notes.
 * Use the **Cornell note taking**  method.
+
+## Taking Notes After Class
+* Take notes after class to:
+ 	* **Build active recall questions**
+ 	* **Consolidate understanding**
+* Expand using multiple sources to help understand concepts.
+* Using the Cornell note method, create questions from your notes.
+
 ## References
 1. https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230
