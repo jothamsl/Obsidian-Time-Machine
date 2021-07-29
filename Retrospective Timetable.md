@@ -6,6 +6,6 @@
 | Civic           |          |          |          |          |
 | Physics         |          |          |          |          |
 | Chemistry       | 27/07/21 |          |          |          |
-| Biology         |          |          |          |          |
+| Biology         | 29/07/21 |          |          |          |
 | ICT             |          |          |          |          |
 | Data Processing |          |          |          |          |
