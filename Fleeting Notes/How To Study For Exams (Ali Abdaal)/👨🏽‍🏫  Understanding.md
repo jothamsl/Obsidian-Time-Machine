@@ -27,5 +27,11 @@ created: 2021-07-25 23:02
 * Expand using multiple sources to help understand concepts.
 * Using the Cornell note method, create questions from your notes.
 
+## Scoping The Subject
+* When studying, figure out where the subject or topic fits in the full picture.
+* Have a bird's eye view rather than a frog's eye view.
+
+## Developing a Syllabus 
+
 ## References
 1. https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230
