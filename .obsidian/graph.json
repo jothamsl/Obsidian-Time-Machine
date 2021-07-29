@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Fleeting Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 9651443
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.12643869076698,
+  "nodeSizeMultiplier": 1.14569978632479,
   "lineSizeMultiplier": 1.32942923553719,
   "collapse-forces": true,
-  "centerStrength": 0.405604338842975,
+  "centerStrength": 0.361511752136752,
   "repelStrength": 10.0671487603306,
   "linkStrength": 0.821926652892562,
   "linkDistance": 171,
-  "scale": 0.9950565471299234,
+  "scale": 1.0366511010516657,
   "close": true
 }

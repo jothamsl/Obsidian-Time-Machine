@@ -15,4 +15,4 @@ The hypothalamus sends a message to the pituitary gland which releases **ADH** i
 
 ## References
 1. https://www.healthline.com/health/adh
-2. 
+2. [[🧪 ADH (Literature)]]
