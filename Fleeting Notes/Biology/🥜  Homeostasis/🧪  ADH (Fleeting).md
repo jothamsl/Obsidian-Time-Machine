@@ -2,7 +2,7 @@
 created: 2021-07-29 09:34
 
 ## What is ADH?
-ADH (Anti-diuretic hormone) is a hormone made by the *hypothalamus* in the brain and stored in the **pituitary gland**. it is also called *arginine vasopressin*.
+ADH (Anti-diuretic hormone) is a hormone made by the [[Hypothalamus]] in the brain and stored in the **pituitary gland**. it is also called *arginine vasopressin*.
 
 ## What is it's purpose/function?
 It's an essential hormone which helps the kidneys manage the amount of water in the body. 
