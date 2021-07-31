@@ -1,2 +1,5 @@
 # ✍🏽  Academic writing for clarity and meaning
-1. [[aca]]
+created: 2021-07-30 18:00
+
+## References
+1. 
