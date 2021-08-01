@@ -6,29 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:\"Fleeting Notes\"",
-      "color": {
-        "a": 1,
-        "rgb": 16769464
-      }
-    },
-    {
-      "query": "path:\"Literature Notes\"",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"Permanent Notes\"",
-      "color": {
-        "a": 1,
-        "rgb": 13399808
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -39,6 +17,6 @@
   "repelStrength": 10.0671487603306,
   "linkStrength": 0.821926652892562,
   "linkDistance": 171,
-  "scale": 0.3279455384314934,
+  "scale": 0.6044444911309179,
   "close": true
 }
