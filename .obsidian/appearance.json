@@ -2,6 +2,5 @@
   "baseFontSize": 19,
   "cssTheme": "",
   "theme": "obsidian",
-  "translucency": false,
-  "obsidianCss": false
+  "translucency": false
 }

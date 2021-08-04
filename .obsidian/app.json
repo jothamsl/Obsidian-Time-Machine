@@ -1,8 +1,10 @@
 {
+  "obsidianCss": false,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "emacsyKeys": false,
   "showFrontmatter": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "defaultViewMode": "preview"
 }
