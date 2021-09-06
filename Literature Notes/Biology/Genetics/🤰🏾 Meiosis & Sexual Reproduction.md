@@ -14,6 +14,8 @@ Meiosis is a special type of cell division of germ cells in sexually-reproducing
 
 Meiosis is precedded by an **interphase** consisting of the 
 
+## Mitosis
+Mitosis is a type of cell division of the cells in living organisms which starts of with a single parent cell that duplicates itself into two similar daughter cells whilst maintaining the same amount of chromosomes.
 
 ## References
 1. [[Fleeting Notes/Biology/🧬  Genetics/Meiosis & Sexual Reproduction]]
