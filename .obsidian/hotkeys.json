@@ -14,5 +14,13 @@
       ],
       "key": "L"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
   ]
 }

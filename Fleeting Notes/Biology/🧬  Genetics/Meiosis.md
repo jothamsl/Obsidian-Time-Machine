@@ -1,6 +1,3 @@
-# 🤰🏾 Meiosis & Sexual Reproduction
-created: 2021-07-24 17:45
-
 At fertilization, the male parent contributes one member of each homologous pair to the offpsring, and the female parent contributes the other. With the exception of the sex chromosomes, homologous chromosomes contain the same genes which may vary, they are called **Alleles**. 
 
 In **Meiosis I** & **Meiosis II**, usually four daughter cells are formed, with each having half the number of chromosomes as the parent cell (*1n*). 
@@ -13,9 +10,3 @@ Genetic variation occurs during **Meiosis I**, in which homologous chromomsomes 
 Meiosis is a special type of cell division of germ cells in sexually-reproducing organisms used to produce the gametes, such as sperm or egg cells.
 
 Meiosis is precedded by an **interphase** consisting of the 
-
-## Mitosis
-Mitosis is a type of cell division of the cells in living organisms which starts of with a single parent cell that duplicates itself into two similar daughter cells whilst maintaining the same amount of chromosomes.
-
-## References
-1. [[Fleeting Notes/Biology/🧬  Genetics/Meiosis & Sexual Reproduction]]

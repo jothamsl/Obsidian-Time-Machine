@@ -1,18 +1,18 @@
-# 🍑 Meiosis & Sexual Reproduction
+# 🍑 Meiosis, Mitosis, Asexual & Sexual Reproduction 
 created: 2021-07-24 13:40
 * Sexual reproduction occurs through the production of a haploid cell (containing one set of chromosomes (23) or genetic material) by each parent.
  
 * The fusion of the two haploid cells form a single, unique diploid cell with a complete set of chromosomes (two sets (46)) or genetic makeup, this is called **Fertilization**.
 
-* Haploid cells are produced through a process called **Meiosis**.
+* Haploid cells are produced through a process called **[[Meiosis]]**.
 
 * Sexual reproduction, specifically meiosis and fertilization, introduces variation into an offspring unlike Asexual reproduction
 
-* Variation is an important component of a species eveolutionary success.
+* Variation is an important component of a species evolutionary success.
 
 * The vast majority of **Eukaryotic** organisms employ some form of meiosis and fertilization to reproduce
 
-* Cells divide to grow, replace other cells and reproduce asexually. [[Fleeting Notes/Biology/Cells]]
+* Cells divide to grow, replace other cells and reproduce asexually through **[[Mitosis]]**.
 
 * Evolution occurs only because organisms have developed ways to vary their genetic material.
 

@@ -1,3 +1,3 @@
 #   🐭 Biology
-1. [[🤰🏾 Meiosis & Sexual Reproduction]]
+1. [[🤰🏾 Sexual & Asexual Reproduction]]
 2. [[🩸 Homeostasis]]
