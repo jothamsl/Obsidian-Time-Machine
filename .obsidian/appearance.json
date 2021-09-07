@@ -1,6 +1,6 @@
 {
   "baseFontSize": 19,
-  "cssTheme": "California Coast",
-  "theme": "obsidian",
-  "translucency": true
+  "cssTheme": "Palatinate",
+  "theme": "moonstone",
+  "translucency": false
 }
