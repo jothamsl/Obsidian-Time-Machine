@@ -5,27 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Fleeting Notes\"",
       "color": {
         "a": 1,
-        "rgb": 14227401
+        "rgb": 5721563
       }
     },
     {
       "query": "path:\"Permanent Notes\"",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 49151
       }
     },
     {
       "query": "path:\"Literature Notes\"",
       "color": {
         "a": 1,
-        "rgb": 1668331
+        "rgb": 254653
       }
     }
   ],
