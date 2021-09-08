@@ -33,5 +33,17 @@ Where $\upmu$ is the coefficient of friction and $N$ is the normal force.
 </details>
 
 
+## Mass and Inertia
+**Inertia** is the tendency for an object at rest to remain at rest,  or for a moving object to remain in motion in a straight line with constant speed. Newton incorporated the concept of inertia into his first law, which is often referred to as the **Law of inertia**.
+
+The inertia of an object is proportional to the mass of the object. 
+
+
+<details open>
+	<summary><b>What is Mass?</b></summary>
+		Mass is a measure of the amount of matter (or stuff) in a body. The quantity of amount of matter in an object is determined by the number and types of atoms the object contains. Unlike weight which changes if the gravitational force changes too, mass does not depend on gravity.
+</details>
+
+
 ## References
 1. https://openstax.org/books/physics/pages/4-2-newtons-first-law-of-motion-inertia

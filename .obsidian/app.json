@@ -7,5 +7,6 @@
   "showFrontmatter": false,
   "spellcheck": true,
   "defaultViewMode": "preview",
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "vimMode": true
 }
