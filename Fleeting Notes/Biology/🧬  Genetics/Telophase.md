@@ -7,3 +7,5 @@ This is the Fourth and final phase of [[Mitosis]]. In this phase, a [[Nuclear me
 
 ## References
 1. 
+
+net external force
