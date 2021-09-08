@@ -17,7 +17,14 @@ The sum of the total amount of forces acting upon a body is called the **Total f
 	This is the total sum of all external forces in a system.
 </details>
 
+In mathematical terms, two forces acting in opposite directions have opposite signs (positive or negative), with the left or down direction showing a negative sign and the right or up direction showing a positive sign.
 
+**NOTE:** It is important to be consistent with your chosen coordinate system within a problem; for example., if negative values are assigned to the downward direction for velocity, then distance, force and acceleration should also be designated as being negative in the downward direction.
+
+<details open>
+	<summary><b>What is a free-body diagram?</b></summary>
+		A free-body diagram is a diagram which represents the object being acted upon. Only the forces acting on the body are shown and are represented by vectors.
+</details>
 
 
 ## References
