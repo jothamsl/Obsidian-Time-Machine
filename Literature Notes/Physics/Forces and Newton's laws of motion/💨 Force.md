@@ -1,4 +1,4 @@
-# Force
+# 💨 Force
 created: 2021-09-08 17:28
 
 Force is the cause of motion. The study of motion is called **[[kinematics]]**. Kinematics only describes the way objects move (velocity, Acceleration). **[[Dynamics]]** considers the forces that affect the motion of moving objects and systems.
@@ -7,8 +7,18 @@ Newton's laws of motion describe the way objects speed up, slow down, stay in mo
 
 <details open>
 	<summary><b>What is a Force?</b></summary>
-	<p>A force is some external or internal exertion which can act upon a body </p>
+	A force is some external or internal exertion which can act upon a body through contact or no contact.
 </details>
+
+The sum of the total amount of forces acting upon a body is called the **Total force** or **Net force**. An **External Force** is a force that acts on an object within a system from outside the system while an **Internal Force** is a force that acts in-between two objects in a system. 
+
+<details open>
+	<summary><b>What is a Net External Force?</b></summary>
+	This is the total sum of all external forces in a system.
+</details>
+
+
+
 
 ## References
 1. https://openstax.org/books/physics/pages/4-1-force
