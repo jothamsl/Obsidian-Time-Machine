@@ -6,5 +6,6 @@
   "emacsyKeys": false,
   "showFrontmatter": false,
   "spellcheck": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "fileSortOrder": "alphabetical"
 }
