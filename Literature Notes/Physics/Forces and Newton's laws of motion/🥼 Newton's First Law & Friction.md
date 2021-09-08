@@ -10,7 +10,27 @@ created: 2021-09-08 18:19
 		Friction is an external force that acts in the opposite direction of motion.
 </details>
 
+![[Screen Shot 2021-09-08 at 6.52.00 PM.png]]
 
+<details open>
+	<summary><b>What is the Normal force?</b></summary>
+		This is a force exerted by a surface that pushes against an object in response to gravity pulling the object down.,
+</details>
+
+The force of friction depends on two factors:
+* The coefficient of friction and 
+* The normal force. 
+
+For any two surfaces that are in contact, the **Coefficient of friction** is a constant that depends on the nature of the surfaces. In equation form, the force of friction is 
+
+$$f=\upmu N$$
+
+Where $\upmu$ is the coefficient of friction and $N$ is the normal force.
+
+<details open>
+	<summary><b>What is a System?</b></summary>
+		A system is one or more objects that you choose to study.
+</details>
 
 
 ## References
