@@ -28,6 +28,6 @@ In mathematical terms, two forces acting in opposite directions have opposite si
 		A free-body diagram is a diagram which represents the object being acted upon. Only the forces acting on the body are shown and are represented by vectors.
 </details>
 
-
+**Next** -> [[🥼 Newton's First Law & Friction]]
 ## References
 1. https://openstax.org/books/physics/pages/4-1-force
