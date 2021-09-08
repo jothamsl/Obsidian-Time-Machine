@@ -17,6 +17,8 @@ The sum of the total amount of forces acting upon a body is called the **Total f
 	This is the total sum of all external forces in a system.
 </details>
 
+^573912
+
 In mathematical terms, two forces acting in opposite directions have opposite signs (positive or negative), with the left or down direction showing a negative sign and the right or up direction showing a positive sign.
 
 **NOTE:** It is important to be consistent with your chosen coordinate system within a problem; for example., if negative values are assigned to the downward direction for velocity, then distance, force and acceleration should also be designated as being negative in the downward direction.
