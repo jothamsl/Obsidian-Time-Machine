@@ -1,6 +1,8 @@
 # 🥼 Newton's First Law & Friction
 created: 2021-09-08 18:19
 
+**Next** -> [[🛩  Newton's Second Law of Motion]]
+
 **Newton's first law of motion** states the following:
 > * A body at rest tends to remain at rest
 > * A body in motion tends to remain in motion at a constant velocity unless acted on by a net external force ([[💨 Force#^573912]]). *(recall that constant velocity means that the body moves in a straight line and at a constant speed)*
@@ -43,8 +45,6 @@ The inertia of an object is proportional to the mass of the object.
 	<summary><b>What is Mass?</b></summary>
 		Mass is a measure of the amount of matter (or stuff) in a body. The quantity of amount of matter in an object is determined by the number and types of atoms the object contains. Unlike weight which changes if the gravitational force changes too, mass does not depend on gravity.
 </details>
-
-[[💨 Force]] <- **Prev**  **Next** -> [[🛩  Newton's Second Law of Motion]]
 
 ## References
 1. https://openstax.org/books/physics/pages/4-2-newtons-first-law-of-motion-inertia

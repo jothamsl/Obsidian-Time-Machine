@@ -1,6 +1,8 @@
 # 💨 Force
 created: 2021-09-08 17:28
 
+**Next** -> [[🥼 Newton's First Law & Friction]]
+
 Force is the cause of motion. The study of motion is called **[[kinematics]]**. Kinematics only describes the way objects move (velocity, Acceleration). **[[Dynamics]]** considers the forces that affect the motion of moving objects and systems.
 
 Newton's laws of motion describe the way objects speed up, slow down, stay in motion and interact with other objects. They are also universal: they apply everywhere on Earth as well as in space.
@@ -28,6 +30,6 @@ In mathematical terms, two forces acting in opposite directions have opposite si
 		A free-body diagram is a diagram which represents the object being acted upon. Only the forces acting on the body are shown and are represented by vectors.
 </details>
 
-**Next** -> [[🥼 Newton's First Law & Friction]]
+
 ## References
 1. https://openstax.org/books/physics/pages/4-1-force
