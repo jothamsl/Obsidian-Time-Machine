@@ -22,8 +22,21 @@ Note that this equation is only true for a horizontal surface.
 
 <details open>
 	<summary><b>What is Tension?</b></summary>
-		The word tension comes from the Latin word meaning *to stretch*. Tension is the force which acts along the length of a flexible connector, such as a string, rope, chain or cable.
+	The word tension comes from the Latin word meaning <i>to stretch</i>. Tension is the force which acts along the length of a flexible connector, such as a string, rope, chain or cable.
 </details>
+
+<p align="center">
+<img src="app://local/Users/jothamsoboyejo/Documents/Notes/Screen Shot 2021-09-11 at 5.28.35 PM.png">
+</p>
+
+Tension in the rope must equal the weight of the supported mass. If the $5.00\ kg$ mass in the figure is stationary, then its acceleration is zero, so $F_{net}=0$. The only external forces acting on the mass are its weight $W$ and the tension $T$ supplied by the rope. Summing the external forces to find the net force, we obtain
+
+$$F_{net}=T-W=0$$
+
+Where $T$ and $W$ are the magnitudes of the tension and weight, respectively, and their signs indicate direction, with up being positive. By substituting $mg$ for $F_{net}$ and rearranging the equation, the tension equals the weight of the supported mass, just as you would expect.
+$$T=W=mg$$
+For a $5.00\ kg$ mass (neglecting the mass of the rope), we see that
+$$T=$$
 
 ## References
 1. https://openstax.org/books/physics/pages/4-4-newtons-third-law-of-motion
