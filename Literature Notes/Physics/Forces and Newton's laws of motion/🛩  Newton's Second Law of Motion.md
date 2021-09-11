@@ -36,6 +36,17 @@ It is also clear from the equation $a=F_{net}/m$ that acceleration is inversely 
 
 $$a\propto \frac{1}{m}$$
 
-****
+**Note:** Inversely proportional means that if one variable is multiplied by a number, the other variable must be divided (or multiplied by the reciprocal) by the same number. In other words, the larger the mass (the inertia [[🥼 Newton's First Law#^a39e9f]]), the smaller the acceleration produced by a given force.
+
+<p align="center">
+	<img src="https://openstax.org/apps/archive/20210713.205645/resources/61192c4a135a23fc42b216ba2fd937fb9962e24a">
+</p>
+
+## Applying Newton's Second Law
+The Si unit of force is **Newtons**. This is the force needed to accelerate a $1kg$ system at the rate of $1\ m/s^2$. That is, because $F_{net}=ma$, we have:
+
+$$1N=1kg\times 1m/s^2 = 1\frac{Kg\times m}{s^2}$$
+
+
 ## References
 1. https://openstax.org/books/physics/pages/4-3-newtons-second-law-of-motion

@@ -36,7 +36,10 @@ Where $\upmu$ is the coefficient of friction and $N$ is the normal force.
 
 
 ## Mass and Inertia
-[**Inertia**](https://en.wikipedia.org/wiki/Inertia) is the tendency for an object at rest to remain at rest,  or for a moving object to remain in motion in a straight line with constant speed. Newton incorporated the concept of inertia into his first law, which is often referred to as the **Law of inertia**.
+
+^0a9fbc
+
+[**Inertia**](https://en.wikipedia.org/wiki/Inertia) is the tendency for an object at rest to remain at rest,  or for a moving object to remain in motion in a straight line with constant speed. Newton incorporated the concept of inertia into his first law, which is often referred to as the **Law of inertia**. ^a39e9f
 
 The inertia of an object is proportional to the mass of the object. Therefore the more mass an object possesses, the more inertia present.
 
