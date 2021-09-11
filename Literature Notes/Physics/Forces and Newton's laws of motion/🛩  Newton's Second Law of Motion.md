@@ -53,7 +53,7 @@ $$ W=mg$$
 
 This is the equation for weight - the gravitational force on a mass $m$. On Earth, $g-9.80m/s^2$, so the weight (disregarding for now the direction of the weight) of a 1.0-kg object on Earth is:
 
-$$W=mg=(1.0kg)(9.80 m/s^2)=9.8N$$
+$$W=mg=(1.0kg)(9.80\ m/s^2)=9.8N$$
 
 Recall that although gravity acts downward, it can be assigned a positive or negative value, depending on what the positive direction is in your chosen coordinate system. Be sure to take this into consideration when solving problems with weight. When the downward direction is taken to be negative, as is often the case, acceleration due to gravity becomes  $g = −9.8 m/s^2$.
 
@@ -65,6 +65,8 @@ Gravity varies slightly over the surface of Earth, so the weight of an object de
 	<summary><b>What is the difference between Weight and Mass?</b></summary>
 		Weight is the gravitational force on an object and is proportional to the force of gravity while Mass is the amount of matter present in a body.
 </details>
+
+**Note:** Only net external forces impact the acceleration of an object.
 
 ## References
 1. https://openstax.org/books/physics/pages/4-3-newtons-second-law-of-motion
