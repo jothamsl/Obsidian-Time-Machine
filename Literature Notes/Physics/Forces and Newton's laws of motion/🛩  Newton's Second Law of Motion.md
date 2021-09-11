@@ -5,7 +5,7 @@ created: 2021-09-08 19:48
 
 **Newton's second law of motion** states the following:
 
-> * The time rate of change of momentum is equal to the force acting on the particle.
+> * The net external force ([[💨 Force#^573912]]) acting on an object is responsible for the acceleration of the object.
 > * The rate of a change of momentum of a body is directly proportional to the applied force, and takes place in the direction in which the force acts.
 
 This law essentially describes how force causes changes in motion and it shows the mathematical relationship between force, mass and acceleration. Mathematically, the second law is most often written as
@@ -47,6 +47,24 @@ The Si unit of force is **Newtons**. This is the force needed to accelerate a $1
 
 $$1N=1kg\times 1m/s^2 = 1\frac{Kg\times m}{s^2}$$
 
+Weight can be represented by a vector because it has a direction.
+Consider an object with mass $m$ falling towards Earth. It experiences only the force of gravity, which is represented by $W$. Because the only force acting on the object is the gravitational force, we have $F_{net}=W$. We know the acceleration due to gravity of an object is $g$, so we have $a=g$. Substituting these two expressions into Newton's second law gives:
+$$ W=mg$$
+
+This is the equation for weight - the gravitational force on a mass $m$. On Earth, $g-9.80m/s^2$, so the weight (disregarding for now the direction of the weight) of a 1.0-kg object on Earth is:
+
+$$W=mg=(1.0kg)(9.80 m/s^2)=9.8N$$
+
+Recall that although gravity acts downward, it can be assigned a positive or negative value, depending on what the positive direction is in your chosen coordinate system. Be sure to take this into consideration when solving problems with weight. When the downward direction is taken to be negative, as is often the case, acceleration due to gravity becomes  $g = −9.8 m/s^2$.
+
+When the net external force on an object is its weight, we say that it is in free-fall. In this case, the only force acting on the object is the force of gravity. On the surface of Earth, when objects fall downward toward Earth, they are never truly in free-fall because there is always some upward force due to air resistance that acts on the object (and there is also the buoyancy force of air, which is similar to the buoyancy force in water that keeps boats afloat).
+
+Gravity varies slightly over the surface of Earth, so the weight of an object depends very slightly on its location on Earth. Weight varies dramatically away from Earth’s surface. On the moon, for example, the acceleration due to gravity is only $1.67 m/s^2$. Because weight depends on the force of gravity, a $1.0kg$ mass weighs $9.8 N$ on Earth and only about $1.7 N$ on the moon.
+
+<details open>
+	<summary><b>What is the difference between Weight and Mass?</b></summary>
+		Weight is the gravitational force on an object and is proportional to the force of gravity while Mass is the amount of matter present in a body.
+</details>
 
 ## References
 1. https://openstax.org/books/physics/pages/4-3-newtons-second-law-of-motion
