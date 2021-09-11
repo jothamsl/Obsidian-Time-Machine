@@ -1,4 +1,4 @@
-# 🥼 Newton's First Law & Friction
+# 🥼 Newton's First Law 
 created: 2021-09-08 18:19
 
 **Next** -> [[🛩  Newton's Second Law of Motion]]

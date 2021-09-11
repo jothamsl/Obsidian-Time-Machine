@@ -1,7 +1,7 @@
 # 💨 Force
 created: 2021-09-08 17:28
 
-**Next** -> [[🥼 Newton's First Law & Friction]]
+**Next** -> [[🥼 Newton's First Law]]
 
 Force is the cause of motion. The study of motion is called **[[kinematics]]**. Kinematics only describes the way objects move (velocity, Acceleration). **[[Dynamics]]** considers the forces that affect the motion of moving objects and systems.
 
