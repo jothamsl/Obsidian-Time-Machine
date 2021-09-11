@@ -2,6 +2,7 @@
 created: 2021-09-08 19:48
 
 **Next** -> [[🧨 Newton's Third Law of Motion]]
+**Base** -> [[🚅  Forces and Newton's Laws of Motion]]
 
 **Newton's second law of motion** states the following:
 

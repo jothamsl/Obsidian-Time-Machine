@@ -36,7 +36,7 @@ $$F_{net}=T-W=0$$
 Where $T$ and $W$ are the magnitudes of the tension and weight, respectively, and their signs indicate direction, with up being positive. By substituting $mg$ for $F_{net}$ and rearranging the equation, the tension equals the weight of the supported mass, just as you would expect.
 $$T=W=mg$$
 For a $5.00\ kg$ mass (neglecting the mass of the rope), we see that
-$$T=$$
+$$T=mg=(5.00\ kg)(9.80\ m/s^2)=49.0N$$
 
 ## References
 1. https://openstax.org/books/physics/pages/4-4-newtons-third-law-of-motion
