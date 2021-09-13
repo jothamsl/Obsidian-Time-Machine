@@ -2,7 +2,7 @@
 created: 2021-09-08 18:19
 
 **Next** -> [[🛩  Newton's Second Law of Motion]]
-**Base** -> [[🚅  Forces and Newton's Laws of Motion]]
+**Prev** -> [[💨 Force]]
 
 **Newton's first law of motion** states the following:
 > * A body at rest tends to remain at rest
