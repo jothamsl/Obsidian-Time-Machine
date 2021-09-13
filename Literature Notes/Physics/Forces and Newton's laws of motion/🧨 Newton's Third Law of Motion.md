@@ -28,7 +28,7 @@ Note that this equation is only true for a horizontal surface.
 </details>
 
 <p align="center">
-<img src="app://local/Users/jothamsoboyejo/Documents/Notes/Screen Shot 2021-09-11 at 5.28.35 PM.png">
+<img src="app://local/Users/jothamsoboyejo/Documents/Notes/Media/Screen Shot 2021-09-11 at 5.28.35 PM.png">
 </p>
 
 Tension in the rope must equal the weight of the supported mass. If the $5.00\ kg$ mass in the figure is stationary, then its acceleration is zero, so $F_{net}=0$. The only external forces acting on the mass are its weight $W$ and the tension $T$ supplied by the rope. Summing the external forces to find the net force, we obtain
