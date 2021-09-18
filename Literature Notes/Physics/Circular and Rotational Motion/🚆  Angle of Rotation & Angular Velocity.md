@@ -33,9 +33,18 @@ $$\Delta\theta = \frac{\Delta s}{r}$$
 		These are the ratio of the radius to the arc length of a circle.
 </details>
 
-**Angular Speed ** ($\omega$) is the angular version of linear velocity $v$.  **Tangential velocity** is the instantaneous linear velocity of an object in rotational motion.
+**Angular Speed ** ($\omega$) is the angular version of linear velocity $v$.  **Tangential velocity** is the instantaneous linear velocity of an object in rotational motion. Consider a line from the center of a CD to its edge, in a given time, each pit (used to record information) on this line moves through the same angle. To get the precise relationship between angular velocity and tangential velocity, consider the pit on the rotating CD. This pit moves through an arc length $\Delta s$ in a short time $\Delta t$. So, its tangential speed is:
 
+$$v=\frac{\Delta s}{\Delta t}$$
 
+From the definition of the angle of rotation, $\Delta \theta=\frac{\Delta s}{r}$, we see that $\Delta s = r\Delta\theta$. Substituting this into the expression for $v$ gives:
+
+$$v=\frac{r\Delta\theta}{\Delta t}=r\omega$$
+
+![[Screen Shot 2021-09-18 at 12.14.33 PM.png]]
+
+The equation $v=r\omega$ says that the tangential speed $v$ is proportional to the distance from the center of rotation. Consequently, tangential speed is great for a point on the outer edge of the CD (with a larger $r$) than for a point closer to the center of the CD (with smaller $r$).
+This makes sense because a point farther out from the center has to cover a longer arc length in the same amount of time as a point closer to the center. Note that both points would still have the same angular speed, regardless of their distance from the center of rotation.
 
 
 ## References
