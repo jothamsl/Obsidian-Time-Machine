@@ -27,5 +27,13 @@ There are five criteria that would be beneficial to your literature notes:
 ![[Pasted image 20211020083052.png]]
 
 
+## Permanent Notes
+Differences between Permanent and literature notes:
+* Literature notes are written in the context of the source they were inspired by. While permanent notes are written in the context of your own ideas and interests.
+* Literature notes only have one connection, to the book or article from which they emanate from. While permanent notes can have many connections (to individual notes, as part of multiple topics etc)
+
+![[Pasted image 20211020083732.png]]
+
+
 ## References
 1. https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6
