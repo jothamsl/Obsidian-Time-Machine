@@ -7,5 +7,26 @@ $$
 f^{'}(x)=\lim_{\Delta x \rightarrow 0}\frac{f(x +\Delta x)-f(x)}{\Delta x}
 $$
 
+Given:
+
+![[Pasted image 20211021190002.png]]
+
+The first equation says that $x_{new}=x+\Delta x$, so now the second equation can be transformed as follows:
+
+![[Pasted image 20211021190059.png]]
+
+
+What this means is that:
+
+$$
+f^{'}(x)=\lim_{\Delta x \rightarrow 0}\frac{\Delta y}{\Delta x}
+$$
+
+An interpretation of this is that a small change in $x$ produces approximately $f^{'}(x)$ times as much change in $y$. $f^{'}(x)$ isn't actually equal to the ratio of $\Delta y$ to $\Delta x$: it's equal to the [[Limit]] of that ratio as $\Delta x$ tends towards 0. 
+
+Instead of writing $\Delta x$, we'd like to write $dx$, which should mean **really, really tiny change in x**, and similarly for y. Unfortunately neither $dx$ nor $dy$ really means anything by itself; nevertheless this provides the inspiration for writing the derivative in a different, more convenient way:
+
+if $y=f(x)$, they you can write $\frac{dy}{dx}$ instead of $f^{'}(x)$.
+
 ## References
 1. 
