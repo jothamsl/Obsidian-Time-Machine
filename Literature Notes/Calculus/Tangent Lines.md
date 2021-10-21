@@ -23,8 +23,15 @@ $$
 As the point $z$ gets closer and closer to $x$, without ever actually getting to $x$, the slope of the line should get closer and closer to the slope of the tangent we're looking for. Therefore:
 
 $$
-Slope\ of\ tangent\ line\ through\ (x,f(x))=\lim_{z\rightarrow x}
+Slope\ of\ tangent\ line\ through\ (x,f(x))=\lim_{z\rightarrow x}\frac{f(z)-f(x)}{z-x}
 $$
 
+And if you set $h=z-x$; then we see that as $z\rightarrow x$, we have  $h\rightarrow 0$. Therefore the above equation can be rewritten as:
+
+$$
+Slope\ of\ tangent\ line\ through\ (x,f(x))=\lim_{z\rightarrow x}\frac{f(x+h)-f(x)}{h}
+$$
+
+Of course, this only makes sense if the limit actually exists!
 ## References
 1. 

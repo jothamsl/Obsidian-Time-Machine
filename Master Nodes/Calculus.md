@@ -1,3 +1,3 @@
 # Calculus
-## Differentiation and Continuity
+## Differentiability and Continuity
 1. [[Tangent Lines]]
