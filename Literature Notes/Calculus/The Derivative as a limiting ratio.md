@@ -28,5 +28,9 @@ Instead of writing $\Delta x$, we'd like to write $dx$, which should mean **real
 
 if $y=f(x)$, they you can write $\frac{dy}{dx}$ instead of $f^{'}(x)$.
 
+For example, if $y=x^2$, then $\frac{dy}{dx}$. In fact, if you replace $y$ with $x^2$, you get a variety of different way of expressing the same thing:
+
+![[Pasted image 20211021192044.png]]
+
 ## References
 1. 
