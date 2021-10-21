@@ -7,7 +7,6 @@
   "showFrontmatter": false,
   "spellcheck": true,
   "defaultViewMode": "preview",
-  "fileSortOrder": "byModifiedTimeReverse",
-  "vimMode": false,
-  "attachmentFolderPath": "Literature Notes"
+  "fileSortOrder": "alphabetical",
+  "vimMode": false
 }

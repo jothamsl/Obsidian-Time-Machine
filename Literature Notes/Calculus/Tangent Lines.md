@@ -1,11 +1,11 @@
 # Tangent Lines
 created: 2021-10-21 10:05
 
-If a point $(x,f(x))$ lies on the graph of $y=f(x)$. We want to try to draw a line through that point which is tangential to the curve. The tangent line doesn't have to intersect only $(x,f(x))$
+If a point $(x,f(x))$ lies on the graph of $y=f(x)$. We want to try to draw a line through that point which is tangential to the curve. The [[Tangent line]] doesn't have to intersect only $(x,f(x))$
 
 ![[Pasted image 20211021100846.png]]
 
-It's possible that there's no tangent line through a given point on a graph. e.g the graph of $y=|x|$
+It's possible that there's no [[Tangent line]] through a given point on a graph. e.g the graph of $y=|x|$
 
 ![[Pasted image 20211021101208.png]]
 
