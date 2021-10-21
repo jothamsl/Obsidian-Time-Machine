@@ -11,16 +11,16 @@ It's possible that there's no [[Tangent line]] through a given point on a graph.
 
 **REM**: To specify a line, you only need to provide a point the line goes through and its [[Slope]]
 
-So far we know, the coordinates $(x,f(x))$. To find the tangent line of a curve using a point and it's slope, we start by picking a number $z$ which is close to $x$ (either to the left or to the right) and plot the point $(z, f(z))$ on the curve.
+So far we know, the coordinates $(x,f(x))$. To find the [[Tangent line]] of a curve using a point and it's slope, we start by picking a number $z$ which is close to $x$ (either to the left or to the right) and plot the point $(z, f(z))$ on the curve.
 
 ![[Pasted image 20211021101829.png]]
 
-The slope of the dashed line is given as: 
+The [[Slope]] of the dashed line is given as: 
 $$
 \frac{f(z)-f(x)}{z-x}
 $$
 
-As the point $z$ gets closer and closer to $x$, without ever actually getting to $x$, the slope of the line should get closer and closer to the slope of the tangent we're looking for. Therefore:
+As the point $z$ gets closer and closer to $x$, without ever actually getting to $x$, the [[Slope]] of the line should get closer and closer to the [[Slope]] of the tangent we're looking for. Therefore:
 
 $$
 Slope\ of\ tangent\ line\ through\ (x,f(x))=\lim_{z\rightarrow x}\frac{f(z)-f(x)}{z-x}
@@ -32,6 +32,6 @@ $$
 Slope\ of\ tangent\ line\ through\ (x,f(x))=\lim_{z\rightarrow x}\frac{f(x+h)-f(x)}{h}
 $$
 
-Of course, this only makes sense if the limit actually exists!
+Of course, this only makes sense if the [[Limit]] actually exists!
 ## References
 1. 
