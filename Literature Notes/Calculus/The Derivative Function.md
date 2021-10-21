@@ -11,6 +11,16 @@ If the limit doesn't exist for some particular $x$, then that value of $x$ is no
 * The limit of a function could fail to exist where there is a sharp corner.
 * If $x$ isn't in the domain of $f$, then you can't even plot the point $(x,f(x))$, let alone draw a tangent line there!
 
+Can you recall the formula definition of instantaneous velocity?
+
+![[Pasted image 20211021182913.png]]
+
+The right hand side of the image above is the same as the definition $f^{'}(x)$ above, except with $x$ replaced by $t$! Formally, if the instantaneous velocity is given as $v(t)$ at time $t$, then $v(t)=f^{'}(t)$. If $f(x)=x^2$, what is $f^{'}(x)$?
+
+![[Pasted image 20211021183551.png]]
+
+This means that the slope of the tangent to the parabola $y=x^2$ at the point $(x,x^2)$ is precisely $2x$. Draw the curve and a few tangent lines to check it out:
+
 
 
 ## References
