@@ -14,7 +14,7 @@ If you find it boring: re-frame it as a **game**.
 ## Music
 Binaural beats has the ability to change our brain waves to a beneficial state for retention.
 
-##### Conditional Training
+### Conditional Training
 What ever you were listening to when you were studying, listen to it while you sleep to help you recall what you studied.
 
 ## Meals
