@@ -3,7 +3,7 @@ created: 2021-10-21 10:35
 
 ![[Pasted image 20211021103631.png]]
 
-These lines have different slopes. That is, the slope of the tangent line depends on which value of $x$ you start with. Another way of saying this is that the slope of the tangent line through $(x,f(x))$ is itself a function of $x$. This function is called the [[Derivative]] of $f$ and is written as $f^{'}$. We say that we have *differentiated* the function f with respect to its variable $x$ to get the function $f^{'}$. By the [[Difference quotient]] formula we say the $f$ is *differentiable* at $x$. 
+These lines have different slopes. That is, the [[Slope]] of the tangent line depends on which value of $x$ you start with. Another way of saying this is that the slope of the tangent line through $(x,f(x))$ is itself a function of $x$. This function is called the [[Derivative]] of $f$ and is written as $f^{'}$. We say that we have *differentiated* the function f with respect to its variable $x$ to get the function $f^{'}$. By the [[Difference quotient]] formula we say the $f$ is *differentiable* at $x$. 
 
 If the limit doesn't exist for some particular $x$, then that value of $x$ is not in the domain of the derivative function $f^{'}$. So we say that $x$ is *not differentiable* at $x$. 
 
@@ -21,7 +21,9 @@ The right hand side of the image above is the same as the definition $f^{'}(x)$ 
 
 This means that the slope of the tangent to the parabola $y=x^2$ at the point $(x,x^2)$ is precisely $2x$. Draw the curve and a few tangent lines to check it out:
 
+![[Pasted image 20211021183836.png]]
 
+The slope of the tangent at $x=-1$ does indeed look like it's about $-2$, which is consistent with the formula $f^{'}(x)=2x$. The same is true with the other tangents -- their slopes are all twice the corresponding $x$-coordinate
 
 ## References
 1. 
