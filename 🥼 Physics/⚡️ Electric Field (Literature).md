@@ -15,9 +15,9 @@ $$
 E=\frac{F}{q_{test}}
 $$
 
-Note that the electric field is a [[Vector]] field that points in the same direction as the force on the positive test charge. The units of an electric field are $N/C$.
+Note that the electric field is a [[_Vector]] field that points in the same direction as the force on the positive test charge. The units of an electric field are $N/C$.
  
-If the [[Field]] is created by a [[Point charge]] or a sphere of [[Uniform charge]], then the magnitude of the force between this point charge $Q$ and the test charge is given by [[Coulomb's law]]:
+If the [[Field]] is created by a [[_Point charge]] or a sphere of [[Uniform charge]], then the magnitude of the force between this point charge $Q$ and the test charge is given by [[Coulomb's law]]:
 
 $$
 F=\frac{k|Q\cdot q_{test}|}{r^2}
@@ -31,7 +31,7 @@ $$
 
 The distance $r$ in the denominator is the distance from the point charge, $Q$, or from the center of a spherical charge, to the point of interest.
 
-Electric field lines point towards or away from the [[Charge]], depending on the type of charge. [[Positive charges]] have electric field lines which point away from them while Negative charges have Electric field lines which point towards them. If we place the positive [[Test charge]] in the electric field of a negative charge, it is attracted to the Negative charge. This is true for negative test charges. This is consistent with [[Coulomb's law]]
+Electric field lines point towards or away from the [[_Charge]], depending on the type of charge. Positive charges have electric field lines which point away from them while Negative charges have Electric field lines which point towards them. If we place the positive [[Test charge]] in the electric field of a negative charge, it is attracted to the Negative charge. This is true for negative test charges. This is consistent with [[Coulomb's law]]
 
 Can you tell which charge is positive and which is negative?
 ![[Pasted image 20211022113655.png]]
@@ -40,7 +40,7 @@ The red point on the left carries a charge of $+1nC$, and the blue point on the 
 
 The electric field equation says that the electric field gets stronger as we approach the charge that generates it.
 
-An [[Electric Field]] formed due to multiple charges may be found by adding the electric field from each individual charge. Because this sum can only be a single number, we know that only a single electric-field line can go through any given point. In other words, [[Electric Field]] lines cannot cross each other. 
+An [[_Electric Field]] formed due to multiple charges may be found by adding the electric field from each individual charge. Because this sum can only be a single number, we know that only a single electric-field line can go through any given point. In other words, electric field lines cannot cross each other. 
 
 
 
