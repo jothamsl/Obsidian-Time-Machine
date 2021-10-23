@@ -7,6 +7,6 @@
   "showFrontmatter": false,
   "spellcheck": true,
   "defaultViewMode": "preview",
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "alphabeticalReverse",
   "vimMode": false
 }
