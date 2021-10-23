@@ -19,4 +19,4 @@ Created: 2021-10-23 11:24
 * Ethyl Chloride ($\ce{CH3CH2Cl}$) is used as an external local anesthetic.
 
 ## References
-1. 
+1. https://chem.libretexts.org/Courses/Eastern_Wyoming_College/EWC%3A_CHEM_2300_-_Introductory_Organic_(Budhi)/1%3A_Organic_Chemistry_-_Alkanes/1.08%3A_Halogenated_Hydrocarbons
