@@ -4,21 +4,35 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Master Nodes\"",
       "color": {
         "a": 1,
-        "rgb": 14811963
+        "rgb": 16774912
       }
     },
     {
-      "query": "path:\"Literature Notes/Physics\"",
+      "query": "path:\"School Notes/Physics\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 169714
+      }
+    },
+    {
+      "query": "path:\"School Notes/Chemistry\"",
+      "color": {
+        "a": 1,
+        "rgb": 3865927
+      }
+    },
+    {
+      "query": "path:\"🧠  Philosophy\"",
+      "color": {
+        "a": 1,
+        "rgb": 11731084
       }
     }
   ],
