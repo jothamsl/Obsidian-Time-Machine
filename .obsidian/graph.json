@@ -15,20 +15,6 @@
       }
     },
     {
-      "query": "path:\"School Notes/Physics\"",
-      "color": {
-        "a": 1,
-        "rgb": 169714
-      }
-    },
-    {
-      "query": "path:\"School Notes/Chemistry\"",
-      "color": {
-        "a": 1,
-        "rgb": 3865927
-      }
-    },
-    {
       "query": "path:\"🧠  Philosophy\"",
       "color": {
         "a": 1,
