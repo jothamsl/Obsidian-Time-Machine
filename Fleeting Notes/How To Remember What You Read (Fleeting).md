@@ -14,4 +14,4 @@ Use the bottom left corner of the page for that date when you finished reading t
 ## References
 1. https://forge.medium.com/how-to-remember-more-of-what-you-read-135022bf7668
 2. https://baos.pub/this-is-by-far-the-best-way-to-remember-what-you-read-in-books-9f012fb190a3
-3. [[How To Remember What You Read (Literature)]]
+3. [[How To Remember What You Read]]

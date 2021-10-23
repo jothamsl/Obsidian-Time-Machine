@@ -2,11 +2,11 @@
   "obsidianCss": false,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "emacsyKeys": false,
   "showFrontmatter": false,
   "spellcheck": true,
   "defaultViewMode": "preview",
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byModifiedTime",
   "vimMode": false
 }
