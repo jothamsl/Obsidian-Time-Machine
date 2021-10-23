@@ -16,5 +16,8 @@ Created: 2021-10-23 12:53
 
 ## Old Notes
 > #### Old notes can provide frameworks to aid learning new concepts.
+> #### No re-taking notes on things you forgot
+> #### Old Notes grow over time
+> #### Encourages First Principles Thinking
 ## References
 1. https://youtu.be/MYJsGksojms

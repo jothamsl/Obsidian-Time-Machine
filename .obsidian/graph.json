@@ -4,41 +4,48 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Master Nodes\"",
+      "query": "path:\"Literature Notes/Chemistry\"",
       "color": {
         "a": 1,
-        "rgb": 65471
+        "rgb": 5562689
       }
     },
     {
-      "query": "file:🧠  HUB",
+      "query": "path:\"Literature Notes/Physics\"",
       "color": {
         "a": 1,
-        "rgb": 40447
+        "rgb": 35071
       }
     },
     {
-      "query": "path:\"🛎 Fleeting Notes\"",
+      "query": "path:\"Literature Notes/Biology\"",
       "color": {
         "a": 1,
-        "rgb": 65412
+        "rgb": 12714062
+      }
+    },
+    {
+      "query": "path:\"Fleeting Notes/Biology\"",
+      "color": {
+        "a": 1,
+        "rgb": 16737976
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.4857275718987,
+  "nodeSizeMultiplier": 1.36973314606742,
   "lineSizeMultiplier": 1.32942923553719,
   "collapse-forces": true,
-  "centerStrength": 0.225568750894262,
-  "repelStrength": 7.34725997996852,
-  "linkStrength": 0.796179710974388,
-  "linkDistance": 176,
-  "scale": 0.2195489260645381,
-  "close": false
+  "centerStrength": 0.336939102564103,
+  "repelStrength": 9.74893162393162,
+  "linkStrength": 0.758012820512821,
+  "linkDistance": 114,
+  "scale": 0.1989705054801899,
+  "close": true
 }

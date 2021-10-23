@@ -1,7 +1,7 @@
 # {{title}}
 Created: {{date}} {{time}}
 
-> ### Abstract:
+> ### **Abstract:**
 
 ## References
 1. 

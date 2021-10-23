@@ -1,4 +1,8 @@
 # Calculus
+
+> ### Abstract:
+> Calculus is the branch of [[_Mathematics]] which revolves around the idea and concept of infinitesimal change. It has two major branches: [[Differential Calculus]] and [[Integral Calculus]]. The former concerns instantaneous rates of change and slopes of curves while integral calculus involves the accumulation of quantities.
+
 ## Limits, Continuity & Differentiation 
 1. [[Tangent Lines]]
 2. [[The Derivative Function]]
