@@ -7,4 +7,4 @@ Created: 2021-10-23 17:48
 * The atoms of a functional group are linked together to the rest of the compound by [[_Covalent bonds]] 
 
 ## References
-1. 
+1. https://courses.lumenlearning.com/boundless-chemistry/chapter/functional-group-names-properties-and-reactions/
