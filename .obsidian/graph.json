@@ -11,14 +11,21 @@
       "query": "path:\"Master Nodes\"",
       "color": {
         "a": 1,
-        "rgb": 16774912
+        "rgb": 65471
       }
     },
     {
-      "query": "path:\"🧠  Philosophy\"",
+      "query": "file:🧠  HUB",
       "color": {
         "a": 1,
-        "rgb": 11731084
+        "rgb": 40447
+      }
+    },
+    {
+      "query": "path:\"🛎 Fleeting Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 65412
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 7.34725997996852,
   "linkStrength": 0.796179710974388,
   "linkDistance": 176,
-  "scale": 0.16163617537106556,
-  "close": true
+  "scale": 0.2195489260645381,
+  "close": false
 }

@@ -6,8 +6,8 @@
 1. [[💻  Hacking -> The Art of Exploitation, 2nd Edition]]
 
 ## CS Terms
-* [[32-bit]]
-* [[64-bit]]
-* [[GNU]]
-* [[Memory]]
-* [[Control Structure]]
+* [[_32-bit]]
+* [[_64-bit]]
+* [[_GNU]]
+* [[_Memory]]
+* [[_Control Structure]]

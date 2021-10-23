@@ -14,4 +14,5 @@
 ## Integration
 1. [[Introduction to Integration]]
 2. [[Definite Integrals]]
-3. [[The Fundamental Theorems of Calculus]]
+3. [[Indefinite Integrals]]
+4. [[The Fundamental Theorems of Calculus]]
