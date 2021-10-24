@@ -1,7 +1,7 @@
 ---
 banner: 📼  Media/kyle-cut-media-hzR9rDXWbqo-unsplash.jpg
 banner_x: 0.5
-banner_y: 0.24563
+banner_y: 0.20952
 ---
 # 🧠  HUB
 > ##### The Second Brain
