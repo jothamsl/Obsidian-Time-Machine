@@ -1,5 +1,6 @@
+
 # First Principles -> The Building Blocks of True Knowledge
-Created: 23-10-2021 19:27
+Created: 23-10-2021 19:27 
 
 * The idea is to break down complicated problems into basic elements and then reassemble them from the ground up.
 * This approach was used by the philosopher [[Aristotle]] and is now used by Elon Musk.

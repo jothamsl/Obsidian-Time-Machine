@@ -1,3 +1,5 @@
+# Sigma Notation 
+
 Consider the sum:
 $$
 \frac{1}{1}+\frac{1}{4}+\frac{1}{9}+\frac{1}{16}+\frac{1}{25}+\frac{1}{36}
