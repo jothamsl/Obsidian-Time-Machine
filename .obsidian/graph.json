@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:HUB",
@@ -27,9 +27,23 @@
         "a": 1,
         "rgb": 16768046
       }
+    },
+    {
+      "query": "path:\"🔮  Definitions\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"👨🏾‍🔬 Chemistry\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.36973314606742,
@@ -39,10 +53,6 @@
   "repelStrength": 9.74893162393162,
   "linkStrength": 0.758012820512821,
   "linkDistance": 114,
-<<<<<<< HEAD
-  "scale": 0.1477934248610869,
-=======
-  "scale": 0.17558762248672147,
->>>>>>> 64d2146fea50cf08bd3a4bb2bad3092ebeddf7e5
-  "close": true
+  "scale": 0.20373267776014425,
+  "close": false
 }

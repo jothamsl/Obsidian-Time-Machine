@@ -1,1 +1,0 @@
-In [[_Organic chemistry]], [[_Hydrocarbons]] are divided into two classes: [[_Aromatic compounds]] and [[_Aliphatic compounds]]. Aliphatic compounds can be [[_saturated]], like hexane, or [[_Unsaturated]], like hexane and hexyne.

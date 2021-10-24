@@ -4,5 +4,5 @@ In [computing](https://en.wikipedia.org/wiki/Computing "Computing"), **memory** 
 
 ![[Pasted image 20210915193401.png]]
 
-## References
+#### Check Out
 1. https://en.wikipedia.org/wiki/Computer_memory
