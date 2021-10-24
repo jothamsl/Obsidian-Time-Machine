@@ -2,5 +2,8 @@
   "table-editor-obsidian",
   "obsidian-git",
   "obsidian-kanban",
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "obsidian-outliner",
+  "obsidian-banners",
+  "oz-image-plugin"
 ]

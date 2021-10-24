@@ -34,6 +34,7 @@ Socratic questioning generally follows this process:
 > [[Carl Sagan]]
 * Elon Musk explained his idea and the dilemma of first principles as:
 > "I think people’s thinking process is too bound by convention or analogy to prior experiences. It’s rare that people try to think of something on a first principles basis. They’ll say, “We’ll do that because it’s always been done that way.” Or they’ll not do it because “Well, nobody’s ever done that, so it must not be good. But that’s just a ridiculous way to think. You have to build up the reasoning from the ground up—“from the first principles” is the phrase that’s used in physics. You look at the fundamentals and construct your reasoning from that, and then you see if you have a conclusion that works or doesn’t work, and it may or may not be different from what people have done in the past."
-
+* His approach to [[Understanding reality]] is to start with what is true -- not with his intuition.
+* Start with the principle, rather than the problem at hand.
 ## References
 1. https://fs.blog/2018/04/first-principles/

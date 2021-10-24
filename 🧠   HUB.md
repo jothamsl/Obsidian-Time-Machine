@@ -1,3 +1,8 @@
+---
+banner: 📼  Media/kyle-cut-media-hzR9rDXWbqo-unsplash.jpg
+banner_x: 0.5
+banner_y: 0.24563
+---
 # 🧠  HUB
 > ##### The Second Brain
 > This is The Index of my second brain. Everything from ideas to topics under several subjects

@@ -1,3 +1,6 @@
+---
+banner: 📼  Media/michal-mancewicz-R9L7ukhBSgs-unsplash.jpg
+---
 # ⚡️ Electric Field
 Created: 2021-10-22 10:17
 
