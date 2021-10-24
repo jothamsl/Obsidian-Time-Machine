@@ -11,7 +11,9 @@ $$
 $$
 When reading this we say: "The sum, from $j=1$ to 6, of $1/j^2$ ". The idea is that you plug $j=1$, $j=2$,$j=3$ and so on up until $j=6$ into the expression $1/j^2$, one at a time, and then add up everything.
 
-![[Pasted image 20211024053920.png]]
+$$
+\sum_{j=1}^{6}\frac{1}{j^2}=\frac{1}{1^2}+\frac{1}{2^2}+\frac{1}{3^2}+\frac{1}{4^2}+\frac{1}{5^2}+\frac{1}{6^2}
+$$
 
 [[_Sigma]] notation is really useful when you want to vary where the sum stops (or starts). For example, consider the series:
 

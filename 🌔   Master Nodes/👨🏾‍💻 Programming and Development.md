@@ -1,3 +1,6 @@
+---
+banner: 📼  Media/0*mfUNFSHyrXnH7ZKf.jpg
+---
 # 👨🏾‍💻 Programming and Development
 
 ## Web-Dev & Stuff
