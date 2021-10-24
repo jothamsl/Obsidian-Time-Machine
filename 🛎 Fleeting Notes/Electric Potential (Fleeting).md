@@ -1,4 +1,4 @@
-# Electric Potential (Literature)
+# Electric Potential 
 Created: 2021-10-22 16:40
 
 A [[_Mass]] in a [[Gravitational Field]] has [[Potential Energy]], which means it has the potential to accelerate and thereby increase it's [[Kinetic Energy]]. The [[Gravitational Potential Energy]] is the work that a [[Mass]] can potentially do by virtue of its position in a [[Gravitational Field]].

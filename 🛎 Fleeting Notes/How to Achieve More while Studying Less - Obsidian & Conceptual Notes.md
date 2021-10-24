@@ -11,13 +11,13 @@ Created: 2021-10-23 12:53
 * **Task 2:** Figure out how to organize the information outside our brain so it can be accessed as quickly as possible.
 
 ## Conceptual Notes
-> #### Promote active learning (learning happens when in class, not at home).
-> #### Questions come up in real time.
+> ### Promote active learning (learning happens when in class, not at home).
+> ### Questions come up in real time.
 
 ## Old Notes
-> #### Old notes can provide frameworks to aid learning new concepts.
-> #### No re-taking notes on things you forgot
-> #### Old Notes grow over time
-> #### Encourages First Principles Thinking
+> ### Old notes can provide frameworks to aid learning new concepts.
+> ### No re-taking notes on things you forgot
+> ### Old Notes grow over time
+> ### Encourages [[_First Principle]] Thinking
 ## References
 1. https://youtu.be/MYJsGksojms

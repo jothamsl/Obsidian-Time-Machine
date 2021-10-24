@@ -1,5 +1,4 @@
 # Control Structure
-created: 2021-09-12 17:48
 
 A control structure is like a block of programming that analyses variables and chooses a direction in which to go based on given parameters. The term _flow control_ details the direction the program takes (which way program control "flows"). Hence it is the basic decision-making process in computing; It is a prediction.
 

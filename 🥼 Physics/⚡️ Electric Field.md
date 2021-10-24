@@ -1,7 +1,7 @@
 # ⚡️ Electric Field
 Created: 2021-10-22 10:17
 
-A [[Field]] is a way of conceptualizing and mapping the [[💨 Force]] that surrounds any object and acts on another object at a distance without apparent physical connection.
+A [[_Field]] is a way of conceptualizing and mapping the [[💨 Force]] that surrounds any object and acts on another object at a distance without apparent physical connection.
 
 [[Michael Faraday]], an English physicist of the nineteenth century, proposed the concept of an [[Electric Field]].
 
@@ -17,7 +17,7 @@ $$
 
 Note that the electric field is a [[_Vector]] field that points in the same direction as the force on the positive test charge. The units of an electric field are $N/C$.
  
-If the [[Field]] is created by a [[_Point charge]] or a sphere of [[Uniform charge]], then the magnitude of the force between this point charge $Q$ and the test charge is given by [[Coulomb's law]]:
+If the [[_Field]] is created by a [[_Point charge]] or a sphere of [[Uniform charge]], then the magnitude of the force between this point charge $Q$ and the test charge is given by [[Coulomb's law]]:
 
 $$
 F=\frac{k|Q\cdot q_{test}|}{r^2}
@@ -36,7 +36,7 @@ Electric field lines point towards or away from the [[_Charge]], depending on th
 Can you tell which charge is positive and which is negative?
 ![[Pasted image 20211022113655.png]]
 
-The red point on the left carries a charge of $+1nC$, and the blue point on the right carries a charge of $-1nC$. The field lines are denser as you approach the point charge.
+The red point on the left carries a charge of $+1NC$, and the blue point on the right carries a charge of $-1NC$. The field lines are denser as you approach the point charge.
 
 The electric field equation says that the electric field gets stronger as we approach the charge that generates it.
 
