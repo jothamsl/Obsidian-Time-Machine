@@ -1,12 +1,53 @@
 # Electric Charge (Fleeting)
 Created: 24-10-2021 16:19
 
+**Table of Content**
+
+- [[#Electric Charge|Electric Charge]]
+- [[#Conservation of Charge|Conservation of Charge]]
+- [[#Conductors & Insulators|Conductors & Insulators]]
+- [[#Transfer & Separation of Charge|Transfer & Separation of Charge]]
+- [[#References|References]]
+
+
+## Electric Charge
+
 * Electric charge comes in two varieties: 
 	* *Positive charges* (+)
 	* *Negative charges* (-)
 * Like charges repel while unlike charges attract
 * The word electric itself comes from the [[_Greek]] word [[_Elektron]] for amber, because the ancient Greeks noticed that amber when rubbed by fur, attracts dry straw.
-* An [[_Electron]] is a particle that is the fundamental unit of negative [[_Electrical Charge]]. A [[_Proton]] is a particle which is the fundamental unit of [[_Positive Charge]]. Each proton carries one unit of positive charge and each electron carries one unit of .
+* An [[_Electron]] is a particle that is the fundamental unit of negative [[_Electrical Charge]]. A [[_Proton]] is a particle which is the fundamental unit of [[_Positive Charge]]. Each proton carries one unit of positive charge and each electron carries one unit of negative charge.
+* The *SI* unit for [[_Electrical Charge]] is the [[_Coulomb]] which is named after the French physicist [[Charles Augustin de Coulomb]], who studied the force between charged objects. 
+* The [[_Proton]] carries $+1.602\times 10^{-19}C$.
+* The [[_Electron]] carries $-1.602\times 10^{-19}C$.
+* The number $n$ of protons required to make $+1.00C$ is:
+
+$$
+n=1.00C\times\frac{1\ proton}{1.602\times 10^{-19}C}=6.25\times 10^{18}
+$$
+
+* The same number of electrons is required to make $-1.00C$ of electric charge. 
+* The fundamental unit of charge is often represented as $e$. Thus, the charge on a proton is $e$, and the charge on an electron is $-e$. Mathematically, $e=+1.602\times 10^{-19}C$
+
+## Conservation of Charge
+* In any [[_System]] involving charges, the [[_Law of Conservation of Charge]] is always in play.
+* It tells us that the [[_Net Charge]] in a [[_System]] is the same before and after any interaction within the system, given that no external charge enters the system and that no internal charge leaves the system during the interaction. Mathematically, conservation the law can be represented as:
+
+$$
+q_{initial}=q_{final}
+$$
+Where $q_{initial}$ is the [[_Net Charge]] before interaction and $q_{final}$ is the net charge after the interaction.
+## Conductors & Insulators
+* If charge can easily move through a material, then the material is know as a [[_Conductor]].
+* If charge can't move through a material, then the material is called an [[_Insulator]].
+* With enough energy, it is possible to force electrons to move through an [[_Insulator]]. However, the insulator is often physically destroyed in the process.
+* The conductivity of some materials is intermediate between conductors and insulators. These are called [[_Semiconductors]]. They can be made conductive under the right conditions, which can involve *temperature*, the purity of the material, and the force applied to push electrons through them. 
+* [[_Semiconductors]] are extensively used in computer chips.
+* The most commonly used semiconductor is [[_Silicon]].
+
+![[Pasted image 20211024190734.png]]
+## Transfer & Separation of Charge
 
 
 ## References

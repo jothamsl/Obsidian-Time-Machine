@@ -4,6 +4,12 @@ created: 2021-09-08 19:48
 **Next** -> [[🧨 Newton's Third Law of Motion]]
 **Prev** -> [[🥼 Newton's First Law]]
 
+**Table of Content**
+
+- [[#Applying Newton's Second Law|Applying Newton's Second Law]]
+- [[#References|References]]
+
+
 **Newton's second law of motion** states the following:
 
 > * The net external force ([[💨 Force#^573912]]) acting on an object is responsible for the acceleration of the object.
