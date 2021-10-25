@@ -8,10 +8,10 @@ banner_y: 0.39662
 > This is The Index of my second brain. Everything from ideas to topics under several subjects
 
 ### School
+* [[𝚫 Calculus]]
 * [[ℇ Physics]]
 * [[🚽 Organic Chemistry]]
 * [[🧪  Inorganic Chemistry]]
-* [[𝚫 Calculus]]
 
 ### Literature & Philosophy 
 * [[✍🏽  Literature & Writing]]
