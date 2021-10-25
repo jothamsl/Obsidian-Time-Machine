@@ -18,6 +18,6 @@ Created: 2021-10-23 12:53
 > ### Old notes can provide frameworks to aid learning new concepts.
 > ### No re-taking notes on things you forgot
 > ### Old Notes grow over time
-> ### Encourages [[_First Principle]] Thinking
+> ### Encourages [[_first principle]] Thinking
 ## References
 1. https://youtu.be/MYJsGksojms

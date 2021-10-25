@@ -27,23 +27,9 @@
         "a": 1,
         "rgb": 16768046
       }
-    },
-    {
-      "query": "path:\"🔮  Definitions\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"👨🏾‍🔬 Chemistry\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.36973314606742,
@@ -53,6 +39,6 @@
   "repelStrength": 9.74893162393162,
   "linkStrength": 0.758012820512821,
   "linkDistance": 114,
-  "scale": 0.15706116053045163,
+  "scale": 0.1785792662438712,
   "close": true
 }
