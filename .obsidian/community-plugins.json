@@ -8,5 +8,8 @@
   "oz-image-plugin",
   "quick-latex",
   "obsidian-plugin-toc",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "sliding-panes-obsidian",
+  "calendar",
+  "obsidian-minimal-settings"
 ]

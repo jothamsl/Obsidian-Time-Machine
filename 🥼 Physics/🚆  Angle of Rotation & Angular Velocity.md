@@ -18,7 +18,7 @@ created: 2021-09-14 20:07
 		This is the angular equivalence of linear velocity.
 </details>
 
-The **Arc length**, is the distance traveled along a circular path. The **radius of curvature**, $r$, is the radius of the circular path.
+The [[_arc length]], is the distance traveled along a circular path. The **radius of curvature**, $r$, is the radius of the circular path.
 
 <p align="center">
 	<img src="https://openstax.org/apps/archive/20210823.155019/resources/a760473cfa5edae30f01bbf94b55ae6f864a9699", width="400">
@@ -33,7 +33,7 @@ $$\Delta\theta = \frac{\Delta s}{r}$$
 		These are the ratio of the radius to the arc length of a circle.
 </details>
 
-**Angular Speed ** ($\omega$) is the angular version of linear velocity $v$.  **Tangential velocity** is the instantaneous linear velocity of an object in rotational motion. Consider a line from the center of a CD to its edge, in a given time, each pit (used to record information) on this line moves through the same angle. To get the precise relationship between angular velocity and tangential velocity, consider the pit on the rotating CD. This pit moves through an arc length $\Delta s$ in a short time $\Delta t$. So, its tangential speed is:
+[[_angular speed]] ($\omega$) is the angular version of linear velocity $v$.  [[_tangential velocity]] is the instantaneous [[_linear velocity]] of an object in rotational motion. Consider a line from the center of a CD to its edge, in a given time, each pit (used to record information) on this line moves through the same angle. To get the precise relationship between angular velocity and tangential velocity, consider the pit on the rotating CD. This pit moves through an arc length $\Delta s$ in a short time $\Delta t$. So, its tangential speed is:
 
 $$v=\frac{\Delta s}{\Delta t}$$
 
