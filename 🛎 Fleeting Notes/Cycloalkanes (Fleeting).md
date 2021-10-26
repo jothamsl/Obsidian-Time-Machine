@@ -13,6 +13,8 @@ Created: 26-10-2021 03:24
 
 ![[Screen Shot 2021-10-26 at 4.55.41 AM.png]]
 * Some cyclic compounds have [[_substituent]] groups attached. e.g *ethylcyclopropane*: ![[Screen Shot 2021-10-26 at 5.04.43 AM.png]]
-* The properties of cyclic hydrocarbons are generally quite similar to those of the corresponding open-chain compounds. So cycloalkanes (withe the exception of cyclopropane, which has a highly)
+* The properties of cyclic hydrocarbons are generally quite similar to those of the corresponding open-chain compounds. So cycloalkanes (withe the exception of cyclopropane, which has a highly strained ring) act very much like noncyclic alkanes.
+* Cyclic structures containing five or six [[Carbon]] atoms (cyclopentane, cyclohexane, are particularly stable.
+* The *cyclopropane* ring is strained because the $C-C-C$ angles are $60^\circ$, and the preferred (tetrahedral) bond angle is $109.5^\circ$. (This strain is readily evident) when you try to build a [[_ball-and-stick model]] of cyclopropane; *cyclopentane* and *cyclohexane* rings have little strain because the $C-C-C$ angles are near the preferred angles.
 ## References
 1. 

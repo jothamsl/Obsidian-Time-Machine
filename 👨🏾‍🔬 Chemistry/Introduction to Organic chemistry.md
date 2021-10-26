@@ -13,10 +13,10 @@ Created: 24-10-2021 13:11
 
 
 ## Definition
-Organic chemistry is the study of the chemistry involving [[Carbon]] based compounds. It was initially the study of the compounds obtained from living organisms which were deemed organic, until 1828, when [[_Friedrich Wohler]], a German chemist synthesized [[_Urea]] (an organic compound), from inorganic starting materials.
+Organic chemistry is the study of the chemistry involving [[Carbon]] based compounds. It was initially the study of the compounds obtained from living organisms which were deemed organic, until 1828, when [[_Friedrich Wohler|Friedrich Wohler]], a German chemist synthesized [[_Urea|urea]] (an organic compound), from inorganic starting materials.
 
 ## Origin 
-Before the 18th century, chemists generally believed that organic compounds obtained form living organisms were endowed with a vital force that distinguished them from [[_inorganic compounds]]. At this time it was believed that organic compounds came from only living things. 
+Before the 18th century, chemists generally believed that organic compounds obtained form living organisms were endowed with a vital force that distinguished them from [[_inorganic compounds|inorganic compounds]]. At this time it was believed that organic compounds came from only living things. 
 
 ## Discovery
 In 1828, German chemist [[_Friedrich Wohler]], synthesized [[_Urea]] (carbamide), a constituent of urine, from inorganic starting materials. He mixed silver cyanate ($\ce{AgOCN}$) and ammonium chloride ($\ce{NH4Cl}$), expecting to get ammonium cyanate ($\ce{NH4OCN}$). But he found the product to be urea:
