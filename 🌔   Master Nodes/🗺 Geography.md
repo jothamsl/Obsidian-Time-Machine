@@ -1,5 +1,5 @@
 # 🗺 Geography
-* [[World Manufacturing Industries (Fleeting)]]
+* [[World Manufacturing Industries]]
 * [[World Trade]]
 * [[World Settlement]]
 * [[World Transportation]]
