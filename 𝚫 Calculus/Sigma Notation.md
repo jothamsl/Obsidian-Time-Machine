@@ -17,10 +17,10 @@ $$
 \sum_{j=1}^{6}\frac{1}{j^2}=\frac{1}{1^2}+\frac{1}{2^2}+\frac{1}{3^2}+\frac{1}{4^2}+\frac{1}{5^2}+\frac{1}{6^2}
 $$
 
-[[_Sigma]] notation is really useful when you want to vary where the sum stops (or starts). For example, consider the series:
+[[_sigma|sigma]] notation is really useful when you want to vary where the sum stops (or starts). For example, consider the series:
 
 $$
 \sum_{j=1}^{n}\frac{1}{j^2}=\frac{1}{1^2}+\frac{1}{2^2}+\frac{1}{3^2}+...+\frac{1}{(n-2)^2}+\frac{1}{(n-1)^2}+\frac{1}{n^2}
 $$
 
-It looks as if there are two variables, $j$ and $n$, but in reality there is only one, which is $n$. $j$ is just a dummy variable -- It's just a temporary placeholder, called the [[_Index of summation]], that runs through the integers from 1 to $n$.
+It looks as if there are two variables, $j$ and $n$, but in reality there is only one, which is $n$. $j$ is just a dummy variable -- It's just a temporary placeholder, called the [[_index of summation|index of summation]], that runs through the integers from 1 to $n$.

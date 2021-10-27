@@ -32,7 +32,7 @@ $$
 \int_{0}^{1}x\ dx=\frac{1}{2}\ \ \ \ \ and\ \ \ \ \int_{0}^{2}x\ dx=2
 $$
 
-Suppose that a car starts at rest, then accelerates([[_acceleration]]) at a constant rate of 1 yard per second squared; its speed (in yards per second) will be given by $v(t)=t$. So how fast does the car go in one second? How about two seconds?
+Suppose that a car starts at rest, then [[_acceleration|accelerates]] at a constant rate of 1 yard per second squared $y/s^2$; its speed (in yards per second) will be given by $v(t)=t$. So how fast does the car go in one second? How about two seconds?
 $$
 displacement=\int_{0}^{1}v(t)\ dt=\int_{0}^{1}t\ dt=\frac{1}{2}
 $$

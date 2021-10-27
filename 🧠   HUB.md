@@ -12,6 +12,8 @@ banner_y: 0.39662
 * [[ℇ Physics]]
 * [[🚽 Organic Chemistry]]
 * [[🧪  Inorganic Chemistry]]
+* [[🗺 Geography]]
+* [[🔨 Civic]]
 
 ### Literature & Philosophy 
 * [[✍🏽  Literature & Writing]]
