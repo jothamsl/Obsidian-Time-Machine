@@ -19,7 +19,7 @@ Organic chemistry is the study of the chemistry involving [[Carbon]] based compo
 Before the 18th century, chemists generally believed that organic compounds obtained form living organisms were endowed with a vital force that distinguished them from [[_inorganic compounds|inorganic compounds]]. At this time it was believed that organic compounds came from only living things. 
 
 ## Discovery
-In 1828, German chemist [[_Friedrich Wohler]], synthesized [[_Urea]] (carbamide), a constituent of urine, from inorganic starting materials. He mixed silver cyanate ($\ce{AgOCN}$) and ammonium chloride ($\ce{NH4Cl}$), expecting to get ammonium cyanate ($\ce{NH4OCN}$). But he found the product to be urea:
+In 1828, German chemist [[_Friedrich Wohler|Friedrick Wohler]], synthesized [[_Urea|urea (carbamide)]] , a constituent of urine, from inorganic starting materials. He mixed silver cyanate ($\ce{AgOCN}$) and ammonium chloride ($\ce{NH4Cl}$), expecting to get ammonium cyanate ($\ce{NH4OCN}$). But he found the product to be urea:
 
 $$
 \ce{AgOCN + NH4Cl->AgCl + NH2CONH2}
@@ -27,7 +27,7 @@ $$
 
 
 
-In 1856, [[_William Henry Perkin]], while trying to manufacture [[_quinine]] accidentally produced the organic dye now known as [[_perkin's mauve]].
+In 1856, [[_William Henry Perkin|William Henry Perkin]], while trying to manufacture [[_quinine|quinine]] accidentally produced the organic dye now known as [[_perkin's mauve|perkin's mauve]].
 
 ## References
 1. [[Introduction to Organic Chemistry (Fleeting)]]
