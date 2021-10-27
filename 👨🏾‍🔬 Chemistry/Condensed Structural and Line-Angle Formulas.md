@@ -14,20 +14,20 @@ Created: 24-10-2021 13:25
 
 
 ## Prerequisites
-* Make sure you understand what a [[_Molecular Formula]] is and what it represents.
-* Understand the fundamentals of [[_Organic chemistry]], [[_Hydrocarbons]], [[_Alkane]]
+* Make sure you understand what a [[_Molecular Formula|molecular formula]] is and what it represents.
+* Understand the fundamentals of [[_Organic chemistry|organic chemistry]], [[_Hydrocarbons|hydrocarbons]], [[_Alkane|alkanes]]
 
 
 
 ## Types of Chemical Formulas
 There are several methods or types of chemical formulas which are used in certain scenarios. These methods include:
-* [[_Molecular Formula]]
-* [[_Structural Formula]]
-* [[_Condensed Structural Formula]]
-* [[_Line-Angle Formula]]
+* [[_Molecular Formula|Molecular formula]]
+* [[_Structural Formula|Structural formula]]
+* [[_Condensed Structural Formula|Condensed structural formula]]
+* [[_Line-Angle Formula|Line-angle Formula]]
 
 
-But in this note, we will only highlight the ideas and representations behind the [[_Structural Formula]], [[_Condensed Structural Formula]] and the [[_Line-Angle Formula]].
+But in this note, we will only highlight the ideas and representations behind the [[_Structural Formula|structural formula]], [[_Condensed Structural Formula|condensed structural formula]] and the [[_Line-Angle Formula|line-angle formula]].
 
 ## Structural  Formula & Condensed Structural Formula
 Molecular formulas show only the elements and numbers of atoms in a [[_Molecule]]. In most cases this is a very useful and neat representation of a [[_Compound]] but, has it's limits as the complexity of compounds slowly increase. e.g: In [[_Organic chemistry]], molecular formulas aren't used often because when given an [[_Alkane]] like *hexane* ($\ce{CH3CH2CH2CH2CH2CH3}$) for example, molecular formulas can't represent an [[_Isomer]] of the organic compound (like *isohexane*, [$\ce{(CH3)2CHCH2CH2CH2}$]). 
