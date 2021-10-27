@@ -2,7 +2,7 @@
 Created: 26-10-2021 11:13
 
 > ## Abstract:
-> 
+
 
 ## Definition
 * **Manufacturing**: This is the process of converting raw materials into new products through mechanical or chemical processes in a factory or industrial workspace.
