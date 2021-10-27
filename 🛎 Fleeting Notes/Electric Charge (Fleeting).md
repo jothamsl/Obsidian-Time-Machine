@@ -16,11 +16,11 @@ Created: 24-10-2021 16:19
 	* *Positive charges* (+)
 	* *Negative charges* (-)
 * Like charges repel while unlike charges attract
-* The word electric itself comes from the [[_Greek]] word [[_Elektron]] for amber, because the ancient Greeks noticed that amber when rubbed by fur, attracts dry straw.
-* An [[_Electron]] is a particle that is the fundamental unit of negative [[_Electrical Charge]]. A [[_Proton]] is a particle which is the fundamental unit of [[_Positive Charge]]. Each proton carries one unit of positive charge and each electron carries one unit of negative charge.
-* The *SI* unit for [[_Electrical Charge]] is the [[_Coulomb]] which is named after the French physicist [[Charles Augustin de Coulomb]], who studied the force between charged objects. 
-* The [[_Proton]] carries $+1.602\times 10^{-19}C$.
-* The [[_Electron]] carries $-1.602\times 10^{-19}C$.
+* The word electric itself comes from the [[_Greek|Greek]] word [[_Elektron|Elektron]] for amber, because the ancient Greeks noticed that amber when rubbed by fur, attracts dry straw.
+* An [[_Electron|electron]] is a particle that is the fundamental unit of negative [[_Electrical Charge|electrical charge]]. A [[_Proton|proton]] is a particle which is the fundamental unit of [[_Positive Charge|positive charge]]. Each proton carries one unit of positive charge and each electron carries one unit of negative charge.
+* The *SI* unit for [[_Electrical Charge|electrical charge]] is the [[_Coulomb|coulomb]] which is named after the French physicist [[Charles Augustin de Coulomb]], who studied the force between charged objects. 
+* The [[_Proton|proton]] carries $+1.602\times 10^{-19}C$.
+* The [[_Electron|electron]] carries $-1.602\times 10^{-19}C$.
 * The number $n$ of protons required to make $+1.00C$ is:
 
 $$
@@ -29,7 +29,7 @@ $$
 
 * The same number of electrons is required to make $-1.00C$ of electric charge. 
 * The fundamental unit of charge is often represented as $e$. Thus, the charge on a proton is $e$, and the charge on an electron is $-e$. Mathematically, $e=+1.602\times 10^{-19}C$
-* American physicist [[_Robert Millikan]](1868-1953) and his student [[_Harvey Fletcher]](1884-1981) were the first to make a relatively accurate measurement of the fundamental unit of charge on the electron. The experiment is know as the [[_Millikan Oil-drop Experiment]]
+* American physicist [[_Robert Millikan|Robert Millikan]](1868-1953) and his student [[_Harvey Fletcher|Harvey Fletcher]](1884-1981) were the first to make a relatively accurate measurement of the fundamental unit of charge on the electron. The experiment is know as the [[_Millikan Oil-drop Experiment|Millikan oil-drop experiment]]
 
 ## Conservation of Charge
 * In any [[_System]] involving charges, the [[_Law of Conservation of Charge]] is always in play.
