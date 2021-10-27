@@ -19,9 +19,10 @@ banner_y: 0.39662
 * [[✍🏽  Literature & Writing]]
 * [[Ψ Philosophy]]
 
-### Machine Learning & Programming
+### Machine Learning & Computer Science
 * [[Machine Learning]]
 * [[👨🏾‍💻 Programming and Development]]
+* [[Computer Science]]
 
 ### Other
 [[💻 Courses]]
