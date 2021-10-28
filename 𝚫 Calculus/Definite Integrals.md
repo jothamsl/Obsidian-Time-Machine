@@ -4,7 +4,7 @@ Created: 25-10-2021 11:42
 > ### **Abstract:**
 > 
 
-* [[The Basic Idea]]
+* [[The Basic Idea (Integrals)|The Basic Idea]]
 
 ## References
 1. 

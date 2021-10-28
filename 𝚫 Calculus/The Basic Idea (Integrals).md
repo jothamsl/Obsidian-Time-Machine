@@ -11,12 +11,12 @@ $$
 \int_{a}^{b}f(x)\ dx
 $$
 
-This is a [[_definite integral]]. You would read it out loud as "the integral from a to b of $f(x)$ with respect to $x$". The expression $f(x)$ is called the [[_integrand]], and tells you what the curved part looks like. $a$ and $b$ are called the [[_limits of integration]] (not to be confused with regular old limits!) or the [[_endpoints of integration]]. $dx$ tells us that $x$ is the variable on the horizontal axis. $x$ is a dummy variable -- you can change it to any other letter, provided that you change it everywhere. 
+This is a [[_definite integral|definite integral]]. You would read it out loud as "the integral from a to b of $f(x)$ with respect to $x$". The expression $f(x)$ is called the [[_integrand|integrand]], and tells you what the curved part looks like. $a$ and $b$ are called the [[_limits of integration|limits of integration]] (not to be confused with regular old limits!) or the [[_endpoints of integration|endpoints of integration]]. $dx$ tells us that $x$ is the variable on the horizontal axis. $x$ is a dummy variable -- you can change it to any other letter, provided that you change it everywhere. 
 
 What if the function dips below the $x$-axis? The situation could look something like this:
 ![[Pasted image 20211025134436.png]]
 
-If all the curve $y=f(x)$ between $x=a$ and $x=b$ actually lies below the $x$-axis, then the [[_integral]] must be negative.
+If all the curve $y=f(x)$ between $x=a$ and $x=b$ actually lies below the $x$-axis, then the [[_integral|integral]] must be negative.
 
 ![[Pasted image 20211025135019.png]]
 
@@ -25,7 +25,7 @@ Now, let's look at a few simple examples of definite integrals. First consider:
 $$
 \int_{0}^{1}x\ dx\ \ \ \ \ and\ \ \ \ \ \int_{0}^{2}x\ dx
 $$
-In both cases, the [[_integrand]] is $x$. In the first case, the are is from $x=0$ to $x=1$, while the second case goes from $x=0$ to $x=2$. So we are looking for two areas.
+In both cases, the [[_integrand|integrand]] is $x$. In the first case, the area is from $x=0$ to $x=1$, while the second case goes from $x=0$ to $x=2$. So we are looking for two areas.
 ![[Pasted image 20211025135957.png]]
 These areas are easy to find: since both are right angle triangles, the areas of each can be found using $\frac{1}{2}bh$:
 $$
@@ -36,5 +36,7 @@ Suppose that a car starts at rest, then [[_acceleration|accelerates]] at a const
 $$
 displacement=\int_{0}^{1}v(t)\ dt=\int_{0}^{1}t\ dt=\frac{1}{2}
 $$
+
+
 ## References
 1. 
