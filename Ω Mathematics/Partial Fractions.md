@@ -9,7 +9,7 @@ Created: 28-10-2021 13:21
 ## Decomposing $\frac{P(x)}{Q(x)}$  Where $Q(x)$ has only Nonrepeated Linear factors
 Recall the algebra regarding adding and subtracting rational expressions. These operations depend on finding a common denominator so that we can write the sum or difference as a single, simplified rational expression. So when we talk about [[_partial fraction decomposition|partial fraction decomposition]], we are essentially discussing the opposite of the procedure to add or subtract rational expressions. In other words, it is a return from the single simplified rational expression to the original expressions, called the [[_partial fraction|Partial Fraction]].
 
-
+![[Screen Shot 2021-10-28 at 1.36.22 PM.png]]
 
 ## References
 1. 
