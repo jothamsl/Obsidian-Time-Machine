@@ -1,0 +1,2 @@
+# Centrifugal force
+The centrifugal force is a [[_force|force]] arising from a body's [[_inertia|inertia]], which appears to act on a body moving in a circular path and is directed away from the center around which the body is moving.
