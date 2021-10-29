@@ -5,7 +5,7 @@
 | Math & Fmath    |  |  |  |            |          |
 | Civic           |          |          |          |          |     |
 | Physics         |          |          |          |          |     |
-| Chemistry       | 23/10/21 | 25/10/21 |          |          |     |
+| Chemistry       |  | 25/10/21 |          |          |     |
 | Biology         |   |          |          |          |     |
 | ICT             |          |          |          |          |     |
 | Data Processing |          |          |          |          |     |

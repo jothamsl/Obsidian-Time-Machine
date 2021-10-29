@@ -1,9 +1,10 @@
 {
   "baseFontSize": 21,
-  "cssTheme": "Minimal",
-  "theme": "moonstone",
+  "cssTheme": "",
+  "theme": "obsidian",
   "translucency": false,
   "enabledCssSnippets": [
-    "pub-image-flags"
+    "pub-image-flags",
+    "image-cards"
   ]
 }
