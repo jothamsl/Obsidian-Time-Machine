@@ -7,6 +7,7 @@ banner: 📼  Media/0*mfUNFSHyrXnH7ZKf.jpg
 
 ## Hacking & Pen-testing
 1. [[💻  Hacking -> The Art of Exploitation, 2nd Edition]]
+2. [[Emulator 101]]
 
 ## CS Terms
 * [[_32-bit|32-bit]]
