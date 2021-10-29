@@ -4,7 +4,6 @@
   "theme": "moonstone",
   "translucency": false,
   "enabledCssSnippets": [
-    "pub-image-flags",
-    "image-cards"
+    "pub-image-flags"
   ]
 }
