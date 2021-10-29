@@ -1,8 +1,8 @@
 # Organic Compounds with Functional Groups (Fleeting)
 Created: 2021-10-23 17:40
 
-* A [[_functional group]] is a specific structural arrangement of atoms or bonds that imparts a characteristic chemical reactivity to the [[_Molecule]].
-* If you understand the behavior of a particular [[_functional group]], you will know a great deal about the general properties of that class of compounds.
+* A [[_functional group|functional group]] is a specific structural arrangement of atoms or bonds that imparts a characteristic chemical reactivity to the [[_Molecule|molecule]].
+* If you understand the behavior of a particular [[_functional group|functional group]], you will know a great deal about the general properties of that class of compounds.
 ![[Pasted image 20211023174548.png]]
 
 ## References
