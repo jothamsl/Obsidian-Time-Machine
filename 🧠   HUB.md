@@ -9,6 +9,7 @@ banner_y: 0.39662
 
 ### School
 * [[𝚫 Calculus]]
+* [[Ω Mathematics]]
 * [[ℇ Physics]]
 * [[🚽 Organic Chemistry]]
 * [[🧪  Inorganic Chemistry]]
