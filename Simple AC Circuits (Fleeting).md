@@ -27,9 +27,9 @@ $$
 Here, $I_0=V_0/R$ is the amplitude of the time-varying current. In the image above, both curves reach their [[_maxima|maxima]] and [[_minima|minima]] at the same time which means that both the current and voltage are [[in phase]].
 
 * Graphical representations of the phase relationships between current and voltage are often useful in the analysis of a.c circuits. These diagrams are called [[_phasor diagrams|phasor diagrams]].
-* The phasor diagram for $i_R(t)$ below (a), with the current on the vertical axis. The arrow (or phasor) is rotating counterclockwise at a constant [[_angular frequency|angular frequency]], so with the phasor diagram, we are viewing it at one instant in time. If the length of the arrow corresponds to the current amplitude $I_0$, the projection of the rotating arrow onto the vertical axis is $i_R(t)=I_0\ sin(\omega t)$, which is the instantaneous current.
+* The phasor diagram for $i_R(t)$ below $(a)$, with the current on the vertical axis. The arrow (or phasor) is rotating counterclockwise at a constant [[_angular frequency|angular frequency]], so with the phasor diagram, we are viewing it at one instant in time. If the length of the arrow corresponds to the current amplitude $I_0$, the projection of the rotating arrow onto the vertical axis is $i_R(t)=I_0\ sin(\omega t)$, which is the instantaneous current.
 
 ![[Pasted image 20211031072913.png]]
-* The vertical axis on the phasor diagram could be either the voltage or the current, depending on the phasor that is being examined.
+* The vertical axis on the phasor diagram could be either the voltage or the current, depending on the phasor that is being examined.  In $(b)$, both current and voltage have the same frequency and are in phase, their phasors point in the same direction and rotate together. The ratio of the lengths of the two phasors can be represented by the resistance, since on voltage phasor and the other is a current phasor.
 ## References
 1. 
