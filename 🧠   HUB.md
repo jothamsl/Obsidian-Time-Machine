@@ -24,6 +24,7 @@ banner_y: 0.39662
 * [[Machine Learning]]
 * [[👨🏾‍💻 Programming and Development]]
 * [[Computer Science]]
+* [[Understanding and Using C Pointers]]
 
 ### Other
 [[💻 Courses]]
