@@ -31,5 +31,8 @@ Here, $I_0=V_0/R$ is the amplitude of the time-varying current. In the image abo
 
 ![[Pasted image 20211031072913.png]]
 * The vertical axis on the phasor diagram could be either the voltage or the current, depending on the phasor that is being examined.  In $(b)$, both current and voltage have the same frequency and are in phase, their phasors point in the same direction and rotate together. The ratio of the lengths of the two phasors can be represented by the resistance, since on voltage phasor and the other is a current phasor.
+
+## Capacitor
+From [[_kirchhoff's loop rule]]
 ## References
-1. 
+1. https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)/Book%3A_University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/15%3A_Alternating-Current_Circuits/15.03%3A_Simple_AC_Circuits
