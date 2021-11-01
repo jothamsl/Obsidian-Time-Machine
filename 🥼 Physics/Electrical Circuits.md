@@ -7,7 +7,7 @@ Created: 24-10-2021 16:06
 * [[Series Circuits]]
 * [[Parallel Circuits]]
 * [[Electric Power]]
-* [[Simple AC Circuits]]
+* [[AC Circuits]]
 
 ## References
 1. 
