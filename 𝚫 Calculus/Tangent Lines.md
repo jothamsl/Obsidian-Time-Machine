@@ -29,7 +29,7 @@ $$
 And if you set $h=z-x$; then we see that as $z\rightarrow x$, we have  $h\rightarrow 0$. Therefore the above equation can be rewritten as:
 
 $$
-Slope\ of\ tangent\ line\ through\ (x,f(x))=\lim_{z\rightarrow x}\frac{f(x+h)-f(x)}{h}
+Slope\ of\ tangent\ line\ through\ (x,f(x))=\lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}
 $$
 
 Of course, this only makes sense if the [[Limit]] actually exists!
