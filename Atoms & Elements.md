@@ -7,7 +7,7 @@ Created: 01-11-2021 18:06
 [[The Structure of the Atom]]
 [[Finding Patterns - The Periodic Law and the Periodic Table]]
 [[The Average Mass of an Element's Atoms]]
-[[Molar Mass -Counting Atoms by Weighing them]]
+[[Molar Mass - Counting Atoms by Weighing them]]
 
 
 ## References
