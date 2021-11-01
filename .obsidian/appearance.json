@@ -1,7 +1,7 @@
 {
   "baseFontSize": 21,
-  "cssTheme": "",
-  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
   "translucency": false,
   "enabledCssSnippets": [
     "pub-image-flags",
