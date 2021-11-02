@@ -10,7 +10,7 @@ In the [[_periodic table|periodic table]], elements are arranged in order of inc
 
 The chemistry of each element is determined by its number of protons and electrons.
 ![[Screen Shot 2021-11-01 at 8.02.46 PM.png]]
-The periodic table summarizes huge amounts of information about the elements in a way that facilitate the prediction of many of their properties and chemical reactions. The elements are arranged in 7 rows, in order of increasing atomic number from left to right and top to bottom.
+The periodic table summarizes huge amounts of information about the elements in a way that facilitates the prediction of many of their properties and chemical reactions. The elements are arranged in 7 rows, in order of increasing atomic number from left to right and top to bottom.
 
 The rows are called *periods* and they are numbered 1 through 7. The elements are stacked in such a way that elements with similar chemical properties form vertical columns, called *groups*, numbered from 1 through 18.
 
