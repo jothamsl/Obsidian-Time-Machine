@@ -10,5 +10,11 @@ In an a.c circuit, voltage fluctuates sinusoidally with time at a fixed frequenc
 $$v=V_0\ \sin(\omega t)$$
 Where $v$ is the voltage at time $t$, $V_0$ is the [[_peak voltage|peak voltage]], and $\omega$ is the [[_angular frequency|angular frequency]] in radians per second. 
 
+For a simple resistance circuit, $I=V/R$, so the a.c current, meaning the current that fluctuates sinusoidally with time at a fixed frequency is:
+
+$$i=I_0\sin(\omega t)$$
+
+Where $i$ is the current at time $t$ and $I_0$ is the peak current and is equal to $V_0/R$
+
 ## References
 1. 

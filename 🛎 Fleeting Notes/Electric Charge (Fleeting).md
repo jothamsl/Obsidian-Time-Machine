@@ -40,12 +40,12 @@ q_{initial}=q_{final}
 $$
 Where $q_{initial}$ is the [[_Net Charge]] before interaction and $q_{final}$ is the net charge after the interaction.
 ## Conductors & Insulators
-* If charge can easily move through a material, then the material is know as a [[_Conductor]].
-* If charge can't move through a material, then the material is called an [[_Insulator]].
-* With enough energy, it is possible to force electrons to move through an [[_Insulator]]. However, the insulator is often physically destroyed in the process.
+* If charge can easily move through a material, then the material is know as a [[_conductor|conductor]].
+* If charge can't move through a material, then the material is called an [[_insulator|insulator]].
+* With enough energy, it is possible to force electrons to move through an [[_insulator|insulator]]. However, the insulator is often physically destroyed in the process.
 * The conductivity of some materials is intermediate between conductors and insulators. These are called [[_semiconductors]]. They can be made conductive under the right conditions, which can involve *temperature*, the purity of the material, and the force applied to push electrons through them. 
 * [[_semiconductors]] are extensively used in computer chips.
-* The most commonly used semiconductor is [[_Silicon]].
+* The most commonly used semiconductor is [[_silicon|silicon]].
 
 ![[Pasted image 20211024190734.png]]
 * When there is an excess amount of negative charge on a [[_Conductor]], the charges repel each other and are distributed along the surface of the conductor. This is know as [[_Polarization]].
