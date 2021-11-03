@@ -24,3 +24,4 @@ The vast majority of the known elements are metals. Of the metals, only mercury 
  
 ## References
 1. https://chem.libretexts.org/Courses/Eastern_Wyoming_College/EWC%3A_CHEM_1020_-_General_Chemistry_I_(Budhi)/02%3A_Atoms_and_Elements/2.07%3A_Finding_Patterns_-_The_Periodic_Law_and_the_Periodic_Table
+![[Recording 20211103114750.webm]]
