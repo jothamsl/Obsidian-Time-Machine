@@ -8,6 +8,7 @@ Created: 24-10-2021 16:05
 > The forces between electrically charged particles are used in technologies such as printers, pollution filters, and spray guns used for painting cars and trucks. Static electricity is the study of [[_Phenomena]], that involve an imbalance of electrical charge. The study of charge in motion is called [[_Electromagnetism]]. In this section, we'll ask the questions: What is an electrical charge, how is it associated with objects, and what forces does it create?
 
 *  [[Electric Charge]]
+*  [[Coulomb's law]]
 *  [[⚡️ Electric Field]]
 
 ## References
