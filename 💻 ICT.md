@@ -1,0 +1,3 @@
+# 💻 ICT
+
+[[Algorithms and Flowcharts]]
