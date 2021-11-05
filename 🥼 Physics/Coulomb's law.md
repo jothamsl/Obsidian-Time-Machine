@@ -4,6 +4,16 @@ Created: 03-11-2021 04:10
 > ### **Abstract:**
 > More than 100 years before Thomson and Rutherford discovered the fundamental particles that carry positive and negative electric charges, Charles Augusting de Coulomb mathematically described the force between charged objects.
 
+**Table of Content**
+
+- [[#Concept|Concept]]
+- [[#Using Coulomb's Law to find the force between charged objects.|Using Coulomb's Law to find the force between charged objects.]]
+	- [[#Strategy|Strategy]]
+	- [[#Solution|Solution]]
+- [[#References|References]]
+
+
+## Concept
 The French scientist [[Charles Augustin de Coulomb]] mathematically described the force between charged objects. In order to measure this, he built a device called a [[_torsion balanc|torsion balance]].
 
 ![[Pasted image 20211103041533.png]]
@@ -26,6 +36,29 @@ This equation is known as [[_coulomb's law|Coulomb's law]], and it describes the
 The direction of the force is along the line joining the centers of the two objects. If the two charges are of opposite signs, Coulomb's law gives a negative result. This means that the force between the particles is attractive. If the two charges have the same signs, Coulomb's law give a positive result which means that the force between them is repulsive.
 
 ![[Pasted image 20211103043421.png]]
+
+Note that Coulomb's law applies only to charged objects that are not moving with respect with each other.
+
+> **Coulomb's law states that**:
+> *The force between two electrically charged bodies is proportional to the amount of charge on each object and inversely proportional to the square of the distance between the two bodies.*
+> $$F=K\frac{q_1q_2}{r^2}$$
+
+Coulomb's law is an example of an [[_inverse-square law|inverse square law]] which means the force depends on the square of the denominator.
+
+## Using Coulomb's Law to find the force between charged objects.
+An engineer measures the force between two ink drops by measuring their acceleration and their diameter. She finds that each member of pair of ink drops exert a repulsive force $F=5.5mN$ on its partner. If each ink drop carries a charge $q_{inkdrop}=1\cdot10^{-10}C$, how far apart are the ink drops?
+
+### Strategy
+We know the force and the charge on each ink drop, so we can use [[_coulomb's law|Coulomb's law]] for the distance $r$ between the ink drops.
+
+### Solution
+The charges in Coulomb's law are $q_1=q_2=q_{inkdrop}$, so the numerator in coulomb's law takes the form $q_1q_2=q_{inkdrop}{2}$.
+Inserting this into Coulomb's law and solving for the distance $r$ gives.
+
+$$F=\frac{kq^2_{inkdrop}}{r^2}$$
+$$r = \sqrt{\frac{kq^2_{inkdrop}}{F}}$$
+$$=\pm \sqrt{\frac{(8.99\cdot10^{9}N\cdot m^2/C^2)(-1\cdot10^{-10}C)^2}{5.5\cdot10^{-3}N}}$$
+$$\pm 1.3\cdot10^{-4}m$$
 
 ## References
 1. 
