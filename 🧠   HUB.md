@@ -5,7 +5,7 @@ banner_y: 0.39662
 ---
 # 🧠  HUB
 > ##### The Second Brain
-> This is The Index of my second brain. Everything from ideas to topics under several subjects
+> For I know nothing. Seneca
 
 ### School
 * [[𝚫 Calculus]]
