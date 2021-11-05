@@ -8,6 +8,7 @@ Created: 03-11-2021 04:10
 
 - [[#Concept|Concept]]
 - [[#Using Coulomb's Law to find the force between charged objects.|Using Coulomb's Law to find the force between charged objects.]]
+	- [[#Problem|Problem]]
 	- [[#Strategy|Strategy]]
 	- [[#Solution|Solution]]
 - [[#References|References]]
@@ -31,7 +32,13 @@ Combining these two proportions, he proposed the following expression to describ
 
 $$F=k\frac{q_1q_2}{r^2}$$
 
-This equation is known as [[_coulomb's law|Coulomb's law]], and it describes the electrostatic force between charged objects. The constant $K$ is called *coulomb's constant*. In SI units, the constant $K$ has the value $K=8.99\cdot 10^9Nm^2/C^2$
+This equation is known as [[_coulomb's law|Coulomb's law]], and it describes the electrostatic force between charged objects. The constant $K$ is called *coulomb's constant*. In SI units, the constant $K$ has the value $K=8.99\cdot 10^9Nm^2/C^2$.
+
+$K$ is also known as the constant of proportionality and is taken as:
+$$K=\frac{1}{4\pi\varepsilon_0}$$
+
+Where $\varepsilon_0$ is a constant known as the permittivity of free space. Coulomb's law can therefore be given as:
+$$F=\frac{q_1q_2}{4\pi\varepsilon_0r^2}$$
 
 The direction of the force is along the line joining the centers of the two objects. If the two charges are of opposite signs, Coulomb's law gives a negative result. This means that the force between the particles is attractive. If the two charges have the same signs, Coulomb's law give a positive result which means that the force between them is repulsive.
 
@@ -46,7 +53,9 @@ Note that Coulomb's law applies only to charged objects that are not moving with
 Coulomb's law is an example of an [[_inverse-square law|inverse square law]] which means the force depends on the square of the denominator.
 
 ## Using Coulomb's Law to find the force between charged objects.
-An engineer measures the force between two ink drops by measuring their acceleration and their diameter. She finds that each member of pair of ink drops exert a repulsive force $F=5.5mN$ on its partner. If each ink drop carries a charge $q_{inkdrop}=1\cdot10^{-10}C$, how far apart are the ink drops?
+
+### Problem
+An engineer measures the force between two ink drops by measuring their acceleration and their diameter. She finds that each member of a pair of ink drops exert a repulsive force $F=5.5mN$ on its partner. If each ink drop carries a charge $q_{inkdrop}=1\cdot10^{-10}C$, how far apart are the ink drops?
 
 ### Strategy
 We know the force and the charge on each ink drop, so we can use [[_coulomb's law|Coulomb's law]] for the distance $r$ between the ink drops.
