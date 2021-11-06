@@ -2,7 +2,7 @@
 Created: 24-10-2021 13:25
 
 > ### **Abstract:**
-> In this note, we highlight the two dominant methods of writing chemical formulas in [[_Organic chemistry]], their contrasting differences, their limitations, and their applications.
+> In this note, we highlight the two dominant methods of writing chemical formulas in [[_Organic chemistry|Organic chemistry]], their contrasting differences, their limitations, and their applications.
 
 **Table of Content**
 

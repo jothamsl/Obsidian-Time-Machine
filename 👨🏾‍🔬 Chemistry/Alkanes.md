@@ -2,7 +2,7 @@
 Created: 2021-10-23 14:29
 
 > ### Abstract:
-> This the beginning of the study of [[_Organic chemistry]] with [[Alkanes]], compounds containing only two elements, [[Carbon]] and [[Hydrogen]], and having only single bonds.
+> This the beginning of the study of [[_Organic chemistry|Organic chemistry]] with [[Alkanes]], compounds containing only two elements, [[Carbon]] and [[Hydrogen]], and having only single bonds.
 
 1. [[Introduction to Organic chemistry]]
 2. [[Structures and Names of Alkanes]]
