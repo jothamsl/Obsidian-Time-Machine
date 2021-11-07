@@ -5,7 +5,7 @@ banner_y: 0.39662
 ---
 # 🧠  HUB
 > ##### The Second Brain
-> For I know nothing. Seneca
+> For I know nothing. Socrates
 
 ### School
 * [[𝚫 Calculus]]
