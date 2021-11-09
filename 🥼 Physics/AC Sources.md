@@ -19,4 +19,3 @@ $$i=I_0\sin(\omega t)$$
 Where $i$ is the current at time $t$ and $I_0$ is the peak current and is equal to $V_0/R$
 
 ## References
-1. [[AC Sources (Fleeting)]]

@@ -8,4 +8,4 @@ Created: 31-10-2021 06:34
 * [[Simple AC Circuits]]
 * [[RLC Series Circuits with AC]]
 ## References
-1. [[Simple AC Circuits (Fleeting)]]
+1. 
