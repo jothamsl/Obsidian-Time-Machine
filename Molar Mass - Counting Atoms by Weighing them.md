@@ -17,7 +17,10 @@ One mole of anything is just Avogadro's number of that something.
 ## Molar Mass
 The atomic weight, molecular weight, or formula weight of one mole of the [[_fundamental unit|fundamental units]] (atoms, molecules or groups of atoms that correspond to the formula of a pure substance) is the ratio of its mass to $1/12$ the mass of one mole of $C^{12}$, and being a ratio, is dimensionless. But at the same time, this [[_molar mass|molar mass]] (as many now prefer to call it) is also the observable mass of one mole ($N_A$) of the substance, so we frequently emphasize this by stating it explicitly as so many grams (or kilograms) per mole: $g/mol^{-1}$
 
-NOTE: The mole is a number not a mass.
+**NOTE**: The mole is a number not a mass.
+
+## Molar Volume
+This is the volume occupied by one mole of a pure substance. Molar volume depends on the density of a substance and like density, varies with temperature owing to thermal expansion, and also with pressure.
 
 ## References
 1. 
