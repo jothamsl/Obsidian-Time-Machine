@@ -35,5 +35,7 @@ The most common prose, depending on what it's about is called **exposition**, **
 
 **Persuasion** seeks to alter how readers think or believe. It is usually about controversial topics and often appeals to reason in the form of argument, offering evidence or logical proof.
 
+**Entertainment** includes fiction, personal essays, sketches.
+
 ## References
 1. 
