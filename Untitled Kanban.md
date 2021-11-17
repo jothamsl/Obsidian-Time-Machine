@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## Box1
 
 - [ ] Physics
+- [ ] **A.C Circuits**
 
 
 ## Box2
