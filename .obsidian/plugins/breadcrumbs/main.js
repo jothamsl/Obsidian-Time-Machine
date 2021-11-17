@@ -1,7 +1,12 @@
 'use strict';
 
 var obsidian = require('obsidian');
+var util = require('util');
 require('path');
+
+function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
+
+var util__default = /*#__PURE__*/_interopDefaultLegacy(util);
 
 var commonjsGlobal = typeof globalThis !== 'undefined' ? globalThis : typeof window !== 'undefined' ? window : typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};
 
@@ -6399,21 +6404,58 @@ function getFieldValues(frontmatterCache, field, settings) {
             rawValues.forEach((rawItem) => {
                 if (!rawItem)
                     return;
-                if (typeof rawItem === "string" || typeof rawItem === "number") {
-                    // Obs cache converts link of form: [[\d+]] to number[][]
-                    const rawItemAsString = rawItem.toString();
-                    const splits = rawItemAsString.match(splitLinksRegex);
-                    if (splits !== null) {
-                        const strs = splits.map((link) => link.match(dropHeaderOrAlias)[1].split("/").last());
-                        values.push(...strs);
-                    }
-                    else {
-                        values.push(rawItemAsString.split("/").last());
-                    }
+                let unProxied = [rawItem];
+                if (util__default['default'].types.isProxy(rawItem)) {
+                    unProxied = [];
+                    // Definitely a proxy the first time
+                    const first = Object.assign({}, rawItem);
+                    first.values.forEach((firstVal) => {
+                        if (util__default['default'].types.isProxy(firstVal)) {
+                            const second = Object.assign({}, firstVal);
+                            const secondValues = second.values;
+                            if (secondValues) {
+                                secondValues.forEach((secondVal) => {
+                                    if (util__default['default'].types.isProxy(secondVal)) {
+                                        const third = Object.assign({}, secondVal).values;
+                                        third.forEach((thirdVal) => {
+                                            unProxied.push(thirdVal);
+                                        });
+                                    }
+                                    else {
+                                        unProxied.push(secondVal);
+                                    }
+                                });
+                            }
+                            else {
+                                unProxied.push(second);
+                            }
+                        }
+                        else {
+                            unProxied.push(firstVal);
+                        }
+                    });
                 }
-                else if (rawItem.path) {
-                    values.push(rawItem.path.split("/").last());
-                }
+                unProxied.forEach((value) => {
+                    console.log({ unproxiedValue: value });
+                    if (typeof value === "string" || typeof value === "number") {
+                        // Obs cache converts link of form: [[\d+]] to number[][]
+                        const rawItemAsString = value.toString();
+                        const splits = rawItemAsString.match(splitLinksRegex);
+                        if (splits !== null) {
+                            const strs = splits.map((link) => link.match(dropHeaderOrAlias)[1].split("/").last());
+                            values.push(...strs);
+                        }
+                        else {
+                            values.push(rawItemAsString.split("/").last());
+                        }
+                    }
+                    else if (value.path !== undefined) {
+                        const lastSplit = value.path.split("/").last();
+                        if (lastSplit !== undefined) {
+                            values.push(lastSplit);
+                        }
+                    }
+                });
             });
         }
         return values;
@@ -6526,7 +6568,7 @@ async function openOrSwitch(app, dest, currFile, event) {
     }
     else {
         const mode = app.vault.getConfig("defaultViewMode");
-        const leaf = (event.ctrlKey || event.getModifierState('Meta'))
+        const leaf = event.ctrlKey || event.getModifierState("Meta")
             ? workspace.splitActiveLeaf()
             : workspace.getUnpinnedLeaf();
         await leaf.openFile(destFile, { active: true, mode });
@@ -6616,9 +6658,9 @@ function getAllGsInDir(userHierarchies, currGraphs, dir) {
 }
 function getAllFieldGs(fields, currGraphs) {
     const fieldGs = [];
-    currGraphs.forEach(hierGs => {
-        DIRECTIONS.forEach(dir => {
-            Object.keys(hierGs[dir]).forEach(fieldName => {
+    currGraphs.forEach((hierGs) => {
+        DIRECTIONS.forEach((dir) => {
+            Object.keys(hierGs[dir]).forEach((fieldName) => {
                 if (fields.includes(fieldName)) {
                     const fieldG = hierGs[dir][fieldName];
                     if (fieldG instanceof graphlib.Graph)
@@ -6651,13 +6693,13 @@ const createOrUpdateYaml = async (key, value, file, frontmatter, api) => {
         console.log(`Creating: ${key}: ${valueStr}`);
         await api.createYamlProperty(key, `['${valueStr}']`, file);
     }
-    else if ([...[frontmatter[key]]].flat(3).some(val => val == valueStr)) {
-        console.log('Already Exists!');
+    else if ([...[frontmatter[key]]].flat(3).some((val) => val == valueStr)) {
+        console.log("Already Exists!");
         return;
     }
     else {
         const oldValueFlat = [...[frontmatter[key]]].flat(4);
-        const newValue = [...oldValueFlat, valueStr].map(val => `'${val}'`);
+        const newValue = [...oldValueFlat, valueStr].map((val) => `'${val}'`);
         console.log(`Updating: ${key}: ${newValue}`);
         await api.update(key, `[${newValue.join(", ")}]`, file);
     }
@@ -6667,26 +6709,26 @@ const writeBCToFile = (app, plugin, currGraphs, file) => {
     const frontmatter = (_a = app.metadataCache.getFileCache(file)) === null || _a === void 0 ? void 0 : _a.frontmatter;
     const api = (_b = app.plugins.plugins.metaedit) === null || _b === void 0 ? void 0 : _b.api;
     if (!api) {
-        new obsidian.Notice('Metaedit must be enabled for this function to work');
+        new obsidian.Notice("Metaedit must be enabled for this function to work");
         return;
     }
-    currGraphs.hierGs.forEach(hier => {
-        DIRECTIONS.forEach(dir => {
+    currGraphs.hierGs.forEach((hier) => {
+        DIRECTIONS.forEach((dir) => {
             let oppDir;
-            if (dir === 'up')
-                oppDir = 'down';
-            if (dir === 'down')
-                oppDir = 'up';
-            if (dir === 'same')
-                oppDir = 'same';
-            Object.keys(hier[dir]).forEach(field => {
+            if (dir === "up")
+                oppDir = "down";
+            if (dir === "down")
+                oppDir = "up";
+            if (dir === "same")
+                oppDir = "same";
+            Object.keys(hier[dir]).forEach((field) => {
                 const fieldG = hier[dir][field];
                 const succs = fieldG.predecessors(file.basename);
                 succs.forEach(async (succ) => {
                     const { fieldName } = fieldG.node(succ);
                     if (!plugin.settings.limitWriteBCCheckboxStates[fieldName])
                         return;
-                    const currHier = plugin.settings.userHierarchies.filter(hier => hier[dir].includes(fieldName))[0];
+                    const currHier = plugin.settings.userHierarchies.filter((hier) => hier[dir].includes(fieldName))[0];
                     let oppField = currHier[oppDir][0];
                     if (!oppField)
                         oppField = `<Reverse>${fieldName}`;
@@ -6698,11 +6740,11 @@ const writeBCToFile = (app, plugin, currGraphs, file) => {
 };
 function oppFields(field, dir, userHierarchies) {
     var _a, _b;
-    let oppDir = 'same';
+    let oppDir = "same";
     if (dir !== "same") {
         oppDir = dir === "up" ? "down" : "up";
     }
-    return (_b = (_a = userHierarchies.find(hier => hier[oppDir].includes(field))) === null || _a === void 0 ? void 0 : _a[oppDir]) !== null && _b !== void 0 ? _b : [];
+    return ((_b = (_a = userHierarchies.find((hier) => hier[oppDir].includes(field))) === null || _a === void 0 ? void 0 : _a[oppDir]) !== null && _b !== void 0 ? _b : []);
 }
 
 /**
@@ -37266,7 +37308,7 @@ class TrailPath extends SvelteComponent {
 const DEFAULT_SETTINGS = {
     userHierarchies: [],
     indexNote: [""],
-    CSVPaths: '',
+    CSVPaths: "",
     hierarchyNotes: [""],
     hierarchyNoteDownFieldName: "",
     hierarchyNoteUpFieldName: "",
@@ -37283,7 +37325,7 @@ const DEFAULT_SETTINGS = {
     rlLeaf: true,
     showTrail: true,
     limitTrailCheckboxStates: {},
-    hideTrailFieldName: 'hide-trail',
+    hideTrailFieldName: "hide-trail",
     trailOrTable: 3,
     gridDots: false,
     dotsColour: "#000000",
@@ -37588,13 +37630,15 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             callback: () => {
                 const first = window.confirm("This action will write the implied Breadcrumbs of each file to that file.\nIt uses the MetaEdit plugins API to update the YAML, so it should only affect that frontmatter of your note.\nI can't promise that nothing bad will happen. **This operation cannot be undone**.");
                 if (first) {
-                    const second = window.confirm('Are you sure? You have been warned that this operation will attempt to update all files with implied breadcrumbs.');
+                    const second = window.confirm("Are you sure? You have been warned that this operation will attempt to update all files with implied breadcrumbs.");
                     if (second) {
-                        const third = window.confirm('For real, please make a back up before');
+                        const third = window.confirm("For real, please make a back up before");
                         if (third) {
                             try {
-                                this.app.vault.getMarkdownFiles().forEach(file => writeBCToFile(this.app, this, this.currGraphs, file));
-                                new obsidian.Notice('Operation Complete');
+                                this.app.vault
+                                    .getMarkdownFiles()
+                                    .forEach((file) => writeBCToFile(this.app, this, this.currGraphs, file));
+                                new obsidian.Notice("Operation Complete");
                             }
                             catch (error) {
                                 new obsidian.Notice(error);
@@ -37604,7 +37648,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                     }
                 }
             },
-            checkCallback: () => this.settings.showWriteAllBCsCmd
+            checkCallback: () => this.settings.showWriteAllBCsCmd,
         });
         this.addRibbonIcon("dice", "Breadcrumbs Visualisation", () => new VisModal(this.app, this).open());
         this.addSettingTab(new BreadcrumbsSettingTab(this.app, this));
@@ -37631,16 +37675,19 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
     async getCSVRows(basePath) {
         const { CSVPaths } = this.settings;
         const CSVRows = [];
-        if (CSVPaths[0] === '') {
+        if (CSVPaths[0] === "") {
             return CSVRows;
         }
         const fullPath = obsidian.normalizePath(CSVPaths[0]);
         const content = await this.app.vault.adapter.read(fullPath);
-        const lines = content.split('\n');
-        const headers = lines[0].split(',').map(head => head.trim());
-        lines.slice(1).forEach(row => {
+        const lines = content.split("\n");
+        const headers = lines[0].split(",").map((head) => head.trim());
+        lines.slice(1).forEach((row) => {
             const rowObj = {};
-            row.split(',').map(head => head.trim()).forEach((item, i) => {
+            row
+                .split(",")
+                .map((head) => head.trim())
+                .forEach((item, i) => {
                 rowObj[headers[i]] = item;
             });
             CSVRows.push(rowObj);
@@ -37649,7 +37696,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         return CSVRows;
     }
     addCSVCrumbs(g, CSVRows, dir, fieldName) {
-        CSVRows.forEach(row => {
+        CSVRows.forEach((row) => {
             g.setNode(row.file, { dir, fieldName });
             if (fieldName === "" || !row[fieldName])
                 return;
@@ -37691,7 +37738,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             hierGs: [],
             mergedGs: { up: undefined, same: undefined, down: undefined },
             closedGs: { up: undefined, same: undefined, down: undefined },
-            limitTrailG: undefined
+            limitTrailG: undefined,
         };
         userHierarchies.forEach((hier, i) => {
             const newGraphs = { up: {}, same: {}, down: {} };
@@ -37702,7 +37749,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             });
             graphs.hierGs.push(newGraphs);
         });
-        const useCSV = settings.CSVPaths !== '';
+        const useCSV = settings.CSVPaths !== "";
         let basePath;
         let CSVRows;
         if (useCSV) {
@@ -37763,18 +37810,18 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             }
         });
         // LimitTrailG
-        if (Object.values(settings.limitTrailCheckboxStates).every(val => val)) {
+        if (Object.values(settings.limitTrailCheckboxStates).every((val) => val)) {
             graphs.limitTrailG = graphs.closedGs.up;
         }
         else {
-            const allUps = getAllGsInDir(userHierarchies, graphs.hierGs, 'up');
-            const allLimitedTrailsGsKeys = Object.keys(allUps).filter(field => settings.limitTrailCheckboxStates[field]);
+            const allUps = getAllGsInDir(userHierarchies, graphs.hierGs, "up");
+            const allLimitedTrailsGsKeys = Object.keys(allUps).filter((field) => settings.limitTrailCheckboxStates[field]);
             const allLimitedTrailsGs = [];
-            allLimitedTrailsGsKeys.forEach(key => allLimitedTrailsGs.push(allUps[key]));
+            allLimitedTrailsGsKeys.forEach((key) => allLimitedTrailsGs.push(allUps[key]));
             const mergedLimitedUpGs = mergeGs(...allLimitedTrailsGs);
             const allLimitedDownGs = [];
-            Object.keys(settings.limitTrailCheckboxStates).forEach(limitedField => {
-                const oppFieldsArr = oppFields(limitedField, 'up', userHierarchies);
+            Object.keys(settings.limitTrailCheckboxStates).forEach((limitedField) => {
+                const oppFieldsArr = oppFields(limitedField, "up", userHierarchies);
                 const oppGs = getAllFieldGs(oppFieldsArr, graphs.hierGs);
                 allLimitedDownGs.push(...oppGs);
             });
@@ -37906,7 +37953,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                 : ""}`,
         });
         this.visited.push([currFile.path, trailDiv]);
-        previewView.querySelector('.markdown-preview-sizer').before(trailDiv);
+        previewView.querySelector(".markdown-preview-sizer").before(trailDiv);
         trailDiv.empty();
         if (sortedTrails.length === 0) {
             trailDiv.innerText = settings.noPathMessage;

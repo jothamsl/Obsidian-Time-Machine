@@ -8,5 +8,8 @@
   "pullBeforePush": true,
   "disablePopups": false,
   "listChangedFilesInMessageBody": false,
-  "showStatusBar": true
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "gitPath": "",
+  "customMessageOnAutoBackup": false
 }

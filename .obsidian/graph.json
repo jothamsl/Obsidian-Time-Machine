@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "physics",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:HUB",
@@ -47,5 +47,5 @@
   "linkStrength": 0.758012820512821,
   "linkDistance": 42,
   "scale": 0.25161316975478987,
-  "close": true
+  "close": false
 }
