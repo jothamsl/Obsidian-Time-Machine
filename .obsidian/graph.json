@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "physics",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 7.86324786324786,
   "linkStrength": 0.758012820512821,
   "linkDistance": 42,
-  "scale": 0.25161316975478987,
+  "scale": 0.0947647715536136,
   "close": false
 }
