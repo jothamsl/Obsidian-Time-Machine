@@ -1,15 +1,3 @@
 {
-  "baseFontSize": 21,
-<<<<<<< HEAD
-  "cssTheme": "",
-  "theme": "moonstone",
-=======
-  "cssTheme": "Minimal",
-  "theme": "obsidian",
->>>>>>> c09d9335dd7816b07e6c579adbf671ac25e32716
-  "translucency": false,
-  "enabledCssSnippets": [
-    "pub-image-flags",
-    "image-cards"
-  ]
+  "baseFontSize": 16
 }
