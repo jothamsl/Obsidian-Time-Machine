@@ -6,14 +6,24 @@ kanban-plugin: basic
 
 ## Box1
 
-
-
-## Box3
-
+- [ ] Chemistry
+- [ ] Geography
+- [ ] ICT
+- [ ] English
+- [ ] Data Processing
 
 
 ## Box2
 
+- [ ] Biology
+- [ ] Civic
+- [ ] Physics
+- [ ] Further Maths
+
+
+## Box3
+
+- [ ] Math
 
 
 ## Box4
