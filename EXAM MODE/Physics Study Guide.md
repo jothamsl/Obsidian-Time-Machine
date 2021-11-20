@@ -14,8 +14,8 @@ Created: 16-11-2021 23:04
 * Nuclear physics
 * Electromagnets
 * Projectiles
-* Circular movement
-* Simple Harmonic motion
+* Circular movement                           +
+* Simple Harmonic motion                 +
 * Capacitors
 * A.C circuits
 * Energy quantification
