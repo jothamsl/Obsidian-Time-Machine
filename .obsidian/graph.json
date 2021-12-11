@@ -11,28 +11,7 @@
       "query": "file:HUB",
       "color": {
         "a": 1,
-        "rgb": 15871020
-      }
-    },
-    {
-      "query": "path:\"🌔   Master Nodes\"",
-      "color": {
-        "a": 1,
-        "rgb": 16751954
-      }
-    },
-    {
-      "query": "path:\"🛎 Fleeting Notes\"",
-      "color": {
-        "a": 1,
-        "rgb": 16768046
-      }
-    },
-    {
-      "query": "path:\"🔮  Definitions\"",
-      "color": {
-        "a": 1,
-        "rgb": 3003071
+        "rgb": 14048348
       }
     }
   ],
