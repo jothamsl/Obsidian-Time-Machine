@@ -6,7 +6,7 @@ Created: 09-11-2021 14:25
 ## Counting Atoms: Avogadro's Number
 Avogadro's number is known as:
 $$N_A\approx6.02\times10^{23}$$
-So $N_A\approx6.02\times10^{23}$ of what? Well, of anything you like: apples, stars in the sky, burritos. However, the only practical use for $N_A$ is to have a more convenient way of expressing the huge numbers of the tiny particles such as atoms or molecules that we deal with in chemistry. Avogadro's number is a [[_collective number|collective number]], just like a dozen.
+So $N_A\approx6.02\times10^{23}$ (602 hexillion) of what? Well, of anything you like: apples, stars in the sky, burritos. However, the only practical use for $N_A$ is to have a more convenient way of expressing the huge numbers of the tiny particles such as atoms or molecules that we deal with in chemistry. Avogadro's number is a [[_collective number|collective number]], just like a dozen.
 
 ## Moles and their uses
 The mole (abbreviated mol) is the SI measure of the quantity of a chemical "entity", which can be an atom, molecule, formula unit, electron or photon.
